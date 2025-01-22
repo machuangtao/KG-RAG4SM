@@ -1,0 +1,305 @@
+{
+    "question_0": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_1": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_2": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_3": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_4": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_5": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_6": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_7": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_9": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_10": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_11": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_12": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_14": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_17": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_18": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_21": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_22": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_23": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_24": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_26": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_27": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_29": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_30": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_31": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_32": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_33": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_35": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_36": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_37": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_38": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_39": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_40": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_41": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_42": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_43": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_44": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_45": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_46": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_47": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_48": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)",
+        "[unique key (Q3667566) --[different from](P1889) --> [key (Q113983600) --[subclass of](P279) --> attribute (Q2722260)"
+    ],
+    "question_49": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_50": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_51": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_52": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[subclass of](P279) --> database (Q8513)",
+        "[relational model (Q755662) --[instance of](P31) --> [database model (Q267136) --[facet of](P1269) --> database (Q8513)",
+        "[relational model (Q755662) --[described by source](P1343) --> [Extending the database relational model to capture more meaning (Q56573217) --[main subject](P921) --> database (Q8513)"
+    ],
+    "question_53": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_54": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)",
+        "[unique key (Q3667566) --[different from](P1889) --> [key (Q113983600) --[subclass of](P279) --> attribute (Q2722260)"
+    ],
+    "question_55": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_56": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)"
+    ],
+    "question_58": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_59": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_60": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_61": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_63": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_64": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_65": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_66": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_67": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[subclass of](P279) --> database (Q8513)",
+        "[relational model (Q755662) --[instance of](P31) --> [database model (Q267136) --[facet of](P1269) --> database (Q8513)",
+        "[relational model (Q755662) --[described by source](P1343) --> [Extending the database relational model to capture more meaning (Q56573217) --[main subject](P921) --> database (Q8513)"
+    ],
+    "question_68": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[subclass of](P279) --> database (Q8513)",
+        "[relational model (Q755662) --[instance of](P31) --> [database model (Q267136) --[facet of](P1269) --> database (Q8513)",
+        "[relational model (Q755662) --[described by source](P1343) --> [Extending the database relational model to capture more meaning (Q56573217) --[main subject](P921) --> database (Q8513)"
+    ],
+    "question_69": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_70": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_71": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_72": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)",
+        "[unique key (Q3667566) --[different from](P1889) --> [key (Q113983600) --[subclass of](P279) --> attribute (Q2722260)"
+    ],
+    "question_73": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_74": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_77": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_78": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_80": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_81": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_82": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_83": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_84": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_85": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_86": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_87": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_88": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_89": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_90": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_91": [
+        "[unique key (Q3667566) --[part of](P361) --> [relational database (Q192588) --[based on](P144) --> relational model (Q755662)",
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_92": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_93": [
+        "[candidate key (Q2113197) --[said to be the same as](P460) --> unique key (Q3667566)"
+    ],
+    "question_94": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_95": [
+        "[unique key (Q3667566) --[said to be the same as](P460) --> candidate key (Q2113197)"
+    ],
+    "question_131": [
+        "[date (Q3016931) --[different from](P1889) --> [Date (Q16997) --[different from](P1889) --> Date (Q5227515)"
+    ],
+    "question_154": [
+        "[date (Q3016931) --[different from](P1889) --> [Date (Q16997) --[different from](P1889) --> Date (Q5227515)"
+    ],
+    "question_155": [
+        "[date (Q3016931) --[different from](P1889) --> [Date (Q16997) --[different from](P1889) --> Date (Q5227515)"
+    ],
+    "question_171": [
+        "[date (Q3016931) --[different from](P1889) --> [Date (Q16997) --[different from](P1889) --> Date (Q5227515)"
+    ],
+    "question_193": [
+        "[date (Q3016931) --[different from](P1889) --> [Date (Q16997) --[different from](P1889) --> Date (Q5227515)"
+    ]
+}

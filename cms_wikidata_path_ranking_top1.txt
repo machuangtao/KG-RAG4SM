@@ -1,0 +1,70 @@
+Question ID: question_0
+Question Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-desynpuf_id and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;beneficiary code 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+Entity Pair: ['Q181754', 'Q42844']
+  Path: heart failure (Q181754) --> [symptoms and signs] --> fatigue (Q9690) --> [has cause] --> major depressive disorder (Q42844)
+
+Question ID: question_1
+Question Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_birth_dt and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;date of birth 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+Entity Pair: ['Q181754', 'Q42844']
+  Path: heart failure (Q181754) --> [symptoms and signs] --> fatigue (Q9690) --> [has cause] --> major depressive disorder (Q42844)
+
+Question ID: question_2
+Question Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_death_dt and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;date of death 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+Entity Pair: ['Q181754', 'Q42844']
+  Path: heart failure (Q181754) --> [symptoms and signs] --> fatigue (Q9690) --> [has cause] --> major depressive disorder (Q42844)
+
+Question ID: question_3
+Question Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_sex_ident_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;sex 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+Entity Pair: ['Q42844', 'Q181754']
+  Path: major depressive disorder (Q42844) --> [symptoms and signs] --> fatigue (Q9690) --> [has cause] --> heart failure (Q181754)
+
+Question ID: question_4
+Question Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_race_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;beneficiary race code 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+Entity Pair: ['Q181754', 'Q42844']
+  Path: heart failure (Q181754) --> [symptoms and signs] --> fatigue (Q9690) --> [has cause] --> major depressive disorder (Q42844)
+
+Question ID: question_5
+Question Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_esrd_ind and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;end stage renal disease indicator 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+Entity Pair: ['Q42844', 'Q181754']
+  Path: major depressive disorder (Q42844) --> [symptoms and signs] --> fatigue (Q9690) --> [has cause] --> heart failure (Q181754)
+
+Question ID: question_6
+Question Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-sp_state_code and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;state code 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+Entity Pair: ['Q181754', 'Q42844']
+  Path: heart failure (Q181754) --> [symptoms and signs] --> fatigue (Q9690) --> [has cause] --> major depressive disorder (Q42844)
+
+Question ID: question_7
+Question Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_county_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;county code 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+Entity Pair: ['Q181754', 'Q42844']
+  Path: heart failure (Q181754) --> [symptoms and signs] --> fatigue (Q9690) --> [has cause] --> major depressive disorder (Q42844)
+
+Question ID: question_8
+Question Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_hi_cvrage_tot_mons and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;total number of months of part a coverage for the beneficiary. 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+Entity Pair: ['Q181754', 'Q42844']
+  Path: heart failure (Q181754) --> [symptoms and signs] --> fatigue (Q9690) --> [has cause] --> major depressive disorder (Q42844)
+
+Question ID: question_9
+Question Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_smi_cvrage_tot_mons and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;total number of months of part b coverage for the beneficiary. 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+Entity Pair: ['Q181754', 'Q42844']
+  Path: heart failure (Q181754) --> [symptoms and signs] --> fatigue (Q9690) --> [has cause] --> major depressive disorder (Q42844)
+

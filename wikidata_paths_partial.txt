@@ -1,0 +1,34 @@
+Question ID: question_0
+entity(Q2113197) -> predicate(P460) -> entity(Q3667566)
+entity(Q3667566) -> predicate(P361) -> entity(Q192588) -> predicate(P144) -> entity(Q755662)
+entity(Q3667566) -> predicate(P361) -> entity(Q192588) -> predicate(P144) -> entity(Q192588-04220193-420b-9415-bf53-62f1a7a32991) -> predicate(P144) -> entity(Q755662)
+entity(Q3667566) -> predicate(P361) -> entity(Q3667566-57ffa003-4ab7-9697-2e10-544e9a3077d1) -> predicate(P361) -> entity(Q192588) -> predicate(P144) -> entity(Q755662)
+
+================================================================================
+Question ID: question_1
+entity(Q2113197) -> predicate(P460) -> entity(Q3667566)
+
+================================================================================
+Question ID: question_2
+entity(Q2113197) -> predicate(P460) -> entity(Q3667566)
+entity(Q3667566) -> predicate(P361) -> entity(Q192588) -> predicate(P144) -> entity(Q755662)
+entity(Q3667566) -> predicate(P361) -> entity(Q192588) -> predicate(P144) -> entity(Q192588-04220193-420b-9415-bf53-62f1a7a32991) -> predicate(P144) -> entity(Q755662)
+entity(Q3667566) -> predicate(P361) -> entity(Q3667566-57ffa003-4ab7-9697-2e10-544e9a3077d1) -> predicate(P361) -> entity(Q192588) -> predicate(P144) -> entity(Q755662)
+
+================================================================================
+Question ID: question_3
+entity(Q2113197) -> predicate(P460) -> entity(Q3667566)
+
+================================================================================
+Question ID: question_4
+entity(Q2113197) -> predicate(P460) -> entity(Q3667566)
+
+================================================================================
+Question ID: question_5
+entity(Q3667566) -> predicate(P361) -> entity(Q192588) -> predicate(P144) -> entity(Q755662)
+entity(Q3667566) -> predicate(P361) -> entity(Q192588) -> predicate(P144) -> entity(Q192588-04220193-420b-9415-bf53-62f1a7a32991) -> predicate(P144) -> entity(Q755662)
+entity(Q3667566) -> predicate(P361) -> entity(Q3667566-57ffa003-4ab7-9697-2e10-544e9a3077d1) -> predicate(P361) -> entity(Q192588) -> predicate(P144) -> entity(Q755662)
+entity(Q3667566) -> predicate(P460) -> entity(Q2113197)
+entity(Q3667566) -> predicate(P460) -> entity(Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) -> predicate(P460) -> entity(Q2113197)
+
+================================================================================

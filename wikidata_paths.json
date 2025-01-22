@@ -1,0 +1,1295 @@
+{
+  "metadata": {
+    "total_questions": 200,
+    "total_unique_entities": 13,
+    "total_unique_relations": 9,
+    "timestamp": "2024-12-01 22:28:44",
+    "max_hops": 2
+  },
+  "results": [
+    {
+      "question_id": "question_0",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_1",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_2",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_3",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_4",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_5",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_6",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_7",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_8",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_9",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_10",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_11",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_12",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_13",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_14",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_15",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_16",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_17",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_18",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_19",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_20",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_21",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_22",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_23",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_24",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_25",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_26",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_27",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_28",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_29",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_30",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_31",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_32",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_33",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_34",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_35",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_36",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_37",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_38",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_39",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_40",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_41",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_42",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_43",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_44",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_45",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_46",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_47",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_48",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)",
+        "Q3667566 (Q3667566) --> [different from] (P1889) --> Q113983600 (Q113983600) --> [subclass of] (P279) --> Q2722260 (Q2722260)"
+      ]
+    },
+    {
+      "question_id": "question_49",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_50",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_51",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_52",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [subclass of] (P279) --> Q8513 (Q8513)",
+        "Q755662 (Q755662) --> [instance of] (P31) --> Q267136 (Q267136) --> [facet of] (P1269) --> Q8513 (Q8513)",
+        "Q755662 (Q755662) --> [described by source] (P1343) --> Q56573217 (Q56573217) --> [main subject] (P921) --> Q8513 (Q8513)"
+      ]
+    },
+    {
+      "question_id": "question_53",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_54",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [different from] (P1889) --> Q113983600 (Q113983600) --> [subclass of] (P279) --> Q2722260 (Q2722260)"
+      ]
+    },
+    {
+      "question_id": "question_55",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_56",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)"
+      ]
+    },
+    {
+      "question_id": "question_57",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_58",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_59",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_60",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_61",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_62",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_63",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_64",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_65",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_66",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_67",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [subclass of] (P279) --> Q8513 (Q8513)",
+        "Q755662 (Q755662) --> [instance of] (P31) --> Q267136 (Q267136) --> [facet of] (P1269) --> Q8513 (Q8513)",
+        "Q755662 (Q755662) --> [described by source] (P1343) --> Q56573217 (Q56573217) --> [main subject] (P921) --> Q8513 (Q8513)"
+      ]
+    },
+    {
+      "question_id": "question_68",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [subclass of] (P279) --> Q8513 (Q8513)",
+        "Q755662 (Q755662) --> [instance of] (P31) --> Q267136 (Q267136) --> [facet of] (P1269) --> Q8513 (Q8513)",
+        "Q755662 (Q755662) --> [described by source] (P1343) --> Q56573217 (Q56573217) --> [main subject] (P921) --> Q8513 (Q8513)"
+      ]
+    },
+    {
+      "question_id": "question_69",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_70",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_71",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_72",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [different from] (P1889) --> Q113983600 (Q113983600) --> [subclass of] (P279) --> Q2722260 (Q2722260)"
+      ]
+    },
+    {
+      "question_id": "question_73",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_74",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_75",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_76",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_77",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_78",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_79",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_80",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_81",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_82",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_83",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_84",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_85",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_86",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_87",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_88",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_89",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_90",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_91",
+      "paths": [
+        "Q3667566 (Q3667566) --> [part of] (P361) --> Q192588 (Q192588) --> [based on] (P144) --> Q755662 (Q755662)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_92",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_93",
+      "paths": [
+        "Q2113197 (Q2113197) --> [said to be the same as] (P460) --> Q3667566 (Q3667566)"
+      ]
+    },
+    {
+      "question_id": "question_94",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_95",
+      "paths": [
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)",
+        "Q3667566 (Q3667566) --> [said to be the same as] (P460) --> Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033 (Q3667566-ba8d7fb3-4b51-3bb9-b9a9-7595a2ea5033) --> [said to be the same as] (P460) --> Q2113197 (Q2113197)"
+      ]
+    },
+    {
+      "question_id": "question_96",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_97",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_98",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_99",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_100",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_101",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_102",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_103",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_104",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_105",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_106",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_107",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_108",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_109",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_110",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_111",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_112",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_113",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_114",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_115",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_116",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_117",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_118",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_119",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_120",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_121",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_122",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_123",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_124",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_125",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_126",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_127",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_128",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_129",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_130",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_131",
+      "paths": [
+        "Q3016931 (Q3016931) --> [different from] (P1889) --> Q16997 (Q16997) --> [different from] (P1889) --> Q5227515 (Q5227515)"
+      ]
+    },
+    {
+      "question_id": "question_132",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_133",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_134",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_135",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_136",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_137",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_138",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_139",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_140",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_141",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_142",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_143",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_144",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_145",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_147",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_146",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_148",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_149",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_150",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_151",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_152",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_153",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_154",
+      "paths": [
+        "Q3016931 (Q3016931) --> [different from] (P1889) --> Q16997 (Q16997) --> [different from] (P1889) --> Q5227515 (Q5227515)"
+      ]
+    },
+    {
+      "question_id": "question_155",
+      "paths": [
+        "Q3016931 (Q3016931) --> [different from] (P1889) --> Q16997 (Q16997) --> [different from] (P1889) --> Q5227515 (Q5227515)"
+      ]
+    },
+    {
+      "question_id": "question_156",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_157",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_158",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_159",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_160",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_161",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_162",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_163",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_164",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_165",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_166",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_167",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_168",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_169",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_170",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_171",
+      "paths": [
+        "Q3016931 (Q3016931) --> [different from] (P1889) --> Q16997 (Q16997) --> [different from] (P1889) --> Q5227515 (Q5227515)"
+      ]
+    },
+    {
+      "question_id": "question_172",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_173",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_174",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_175",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_176",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_177",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_178",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_179",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_180",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_181",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_182",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_183",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_184",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_185",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_186",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_187",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_188",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_189",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_190",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_191",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_192",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_193",
+      "paths": [
+        "Q3016931 (Q3016931) --> [different from] (P1889) --> Q16997 (Q16997) --> [different from] (P1889) --> Q5227515 (Q5227515)"
+      ]
+    },
+    {
+      "question_id": "question_194",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_195",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_196",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_197",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_198",
+      "paths": [
+        "No path found."
+      ]
+    },
+    {
+      "question_id": "question_199",
+      "paths": [
+        "No path found."
+      ]
+    }
+  ]
+}

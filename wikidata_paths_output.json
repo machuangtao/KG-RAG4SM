@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "total_pairs": 1,
+    "total_unique_entities": 0,
+    "total_unique_relations": 0,
+    "timestamp": "2024-12-03 20:32:38",
+    "max_hops": 3,
+    "configuration": {
+      "rate_limit": 3,
+      "batch_size": 50
+    }
+  },
+  "results": [
+    {
+      "start_qid": "Q42844",
+      "end_qid": "Q12136",
+      "paths": [
+        "No path found"
+      ]
+    }
+  ]
+}
