@@ -1,0 +1,1719 @@
+{
+  "metadata": {
+    "total_questions": 10,
+    "timestamp": "2024-11-20T18:56:13.489562",
+    "version": "1.0"
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "question_id": "question_0",
+      "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-desynpuf_id and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;beneficiary code \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+      "similar_items": {
+        "entities": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "oration. address delivered to an audience."
+            },
+            "similarity_score": 0.04683455429494428
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "heart failure. failure of the heart to provide sufficient blood flow."
+            },
+            "similarity_score": 0.04319401959372793
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information."
+            },
+            "similarity_score": 0.04308728644837953
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities."
+            },
+            "similarity_score": 0.04112863578392563
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "drug costs. amount that a health care institution or organization pays for its drugs."
+            },
+            "similarity_score": 0.04044149279575639
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "National Provider Identifier. identification number issued to health care providers in the United States by the Centers for Medicare and Medicaid Services."
+            },
+            "similarity_score": 0.040137752465274845
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "beneficiary. person or other legal entity who receives money or other benefits from a benefactor."
+            },
+            "similarity_score": 0.03992084161254024
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "health care. prevention of disease and promotion of wellbeing of humans and animals."
+            },
+            "similarity_score": 0.039460190790401
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "chronic obstructive pulmonary disease. lung disease involving long-term poor airflow."
+            },
+            "similarity_score": 0.039264573055592666
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Diabetes UK. British-based patient, healthcare professional and research charity."
+            },
+            "similarity_score": 0.03921099579563464
+          }
+        ],
+        "relationships": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "train melody. music that tells you that a train is leaving or arriving at a train station."
+            },
+            "similarity_score": 0.04244116738273165
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Academy of Russian Television person ID. identifier of person in Academy of Russian Television."
+            },
+            "similarity_score": 0.04105891112744625
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation."
+            },
+            "similarity_score": 0.03912789668077057
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary."
+            },
+            "similarity_score": 0.03890597270246099
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "State Duma person ID. ."
+            },
+            "similarity_score": 0.03833328048812415
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Arachne.org.au ID. numerical identifier for an arachnid taxon in the Arachne.org.au database."
+            },
+            "similarity_score": 0.0374712743680113
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia."
+            },
+            "similarity_score": 0.03689111048918649
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary."
+            },
+            "similarity_score": 0.03678785092655311
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website."
+            },
+            "similarity_score": 0.03653904007831946
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Lithuanian Heritage Registry code. number of an entry issued by Lithuanian Heritage Registry."
+            },
+            "similarity_score": 0.0362149287382303
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 2,
+      "question_id": "question_1",
+      "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_birth_dt and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;date of birth \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+      "similar_items": {
+        "entities": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "oration. address delivered to an audience."
+            },
+            "similarity_score": 0.04511664221040887
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "heart failure. failure of the heart to provide sufficient blood flow."
+            },
+            "similarity_score": 0.04288062361819721
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information."
+            },
+            "similarity_score": 0.04145469436363256
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities."
+            },
+            "similarity_score": 0.04075092132306955
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "beneficiary. person or other legal entity who receives money or other benefits from a benefactor."
+            },
+            "similarity_score": 0.03898453321638451
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "drug costs. amount that a health care institution or organization pays for its drugs."
+            },
+            "similarity_score": 0.03827146951710396
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "health care. prevention of disease and promotion of wellbeing of humans and animals."
+            },
+            "similarity_score": 0.03766895829747384
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "chronic obstructive pulmonary disease. lung disease involving long-term poor airflow."
+            },
+            "similarity_score": 0.036824043495742156
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "National Provider Identifier. identification number issued to health care providers in the United States by the Centers for Medicare and Medicaid Services."
+            },
+            "similarity_score": 0.035905713921337026
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "state. organised community living under a system of government; either a sovereign state, constituent state, or federated state."
+            },
+            "similarity_score": 0.035677285265382955
+          }
+        ],
+        "relationships": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "train melody. music that tells you that a train is leaving or arriving at a train station."
+            },
+            "similarity_score": 0.03879108584783929
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation."
+            },
+            "similarity_score": 0.035416064372867886
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary."
+            },
+            "similarity_score": 0.03497297415820819
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Academy of Russian Television person ID. identifier of person in Academy of Russian Television."
+            },
+            "similarity_score": 0.03475047891107115
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website."
+            },
+            "similarity_score": 0.03418387727648116
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia."
+            },
+            "similarity_score": 0.03382071598727156
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Atlas Project of Roman Aqueducts ID. identifier of an ancient Roman aqueduct at the Atlas Project of Roman Aqueducts."
+            },
+            "similarity_score": 0.03291435467375583
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "State Duma person ID. ."
+            },
+            "similarity_score": 0.03280923948012936
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)."
+            },
+            "similarity_score": 0.03245164547794657
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary."
+            },
+            "similarity_score": 0.03211224368990402
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 3,
+      "question_id": "question_2",
+      "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_death_dt and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;date of death \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+      "similar_items": {
+        "entities": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "oration. address delivered to an audience."
+            },
+            "similarity_score": 0.04992405302882781
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "heart failure. failure of the heart to provide sufficient blood flow."
+            },
+            "similarity_score": 0.049645653886679325
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information."
+            },
+            "similarity_score": 0.04659541243617482
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities."
+            },
+            "similarity_score": 0.04652098400675089
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "beneficiary. person or other legal entity who receives money or other benefits from a benefactor."
+            },
+            "similarity_score": 0.045163964791983695
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "drug costs. amount that a health care institution or organization pays for its drugs."
+            },
+            "similarity_score": 0.04454584266742069
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "health care. prevention of disease and promotion of wellbeing of humans and animals."
+            },
+            "similarity_score": 0.04364307954912125
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "chronic obstructive pulmonary disease. lung disease involving long-term poor airflow."
+            },
+            "similarity_score": 0.04260791240829499
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "National Provider Identifier. identification number issued to health care providers in the United States by the Centers for Medicare and Medicaid Services."
+            },
+            "similarity_score": 0.042242822071389775
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "state. organised community living under a system of government; either a sovereign state, constituent state, or federated state."
+            },
+            "similarity_score": 0.04223590737066138
+          }
+        ],
+        "relationships": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "train melody. music that tells you that a train is leaving or arriving at a train station."
+            },
+            "similarity_score": 0.044708566244165346
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation."
+            },
+            "similarity_score": 0.04158367902425776
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Academy of Russian Television person ID. identifier of person in Academy of Russian Television."
+            },
+            "similarity_score": 0.04154324109982657
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website."
+            },
+            "similarity_score": 0.03997275447138552
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary."
+            },
+            "similarity_score": 0.039845000259581764
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)."
+            },
+            "similarity_score": 0.03917429929596697
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Atlas Project of Roman Aqueducts ID. identifier of an ancient Roman aqueduct at the Atlas Project of Roman Aqueducts."
+            },
+            "similarity_score": 0.03829920047001713
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia."
+            },
+            "similarity_score": 0.0382803237534156
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "UAE University Libraries ID. identifier for a person or an organization in the authority file of United Arab Emirates University Libraries through VIAF."
+            },
+            "similarity_score": 0.03813713501747039
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "State Duma person ID. ."
+            },
+            "similarity_score": 0.03754331212657071
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 4,
+      "question_id": "question_3",
+      "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_sex_ident_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;sex \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+      "similar_items": {
+        "entities": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "oration. address delivered to an audience."
+            },
+            "similarity_score": 0.04445752168964756
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information."
+            },
+            "similarity_score": 0.04229045921867648
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities."
+            },
+            "similarity_score": 0.04159473694547672
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "heart failure. failure of the heart to provide sufficient blood flow."
+            },
+            "similarity_score": 0.04140899360021567
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "attending physician. attending physician."
+            },
+            "similarity_score": 0.03834681511025088
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "chronic obstructive pulmonary disease. lung disease involving long-term poor airflow."
+            },
+            "similarity_score": 0.03767871868269619
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "beneficiary. person or other legal entity who receives money or other benefits from a benefactor."
+            },
+            "similarity_score": 0.03718917334425108
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "state. organised community living under a system of government; either a sovereign state, constituent state, or federated state."
+            },
+            "similarity_score": 0.036960797149262294
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Provider-physician arrangements: an uneasy alliance under fraud, abuse, and inurement.. scientific article published on January 1990."
+            },
+            "similarity_score": 0.03672711083384935
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "disease. abnormal condition negatively affecting organisms."
+            },
+            "similarity_score": 0.03600088228288838
+          }
+        ],
+        "relationships": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "train melody. music that tells you that a train is leaving or arriving at a train station."
+            },
+            "similarity_score": 0.03846752080135913
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary."
+            },
+            "similarity_score": 0.036865327811495346
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation."
+            },
+            "similarity_score": 0.03599467477941977
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary."
+            },
+            "similarity_score": 0.0350317917185326
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia."
+            },
+            "similarity_score": 0.034588329918703906
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Academy of Russian Television person ID. identifier of person in Academy of Russian Television."
+            },
+            "similarity_score": 0.03404764797140937
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)."
+            },
+            "similarity_score": 0.03270030888356374
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "record held. notable record achieved by a person or entity, include qualifiers for dates held."
+            },
+            "similarity_score": 0.03268336527584102
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website."
+            },
+            "similarity_score": 0.03245746411162136
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear."
+            },
+            "similarity_score": 0.03223216668009831
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 5,
+      "question_id": "question_4",
+      "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_race_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;beneficiary race code \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+      "similar_items": {
+        "entities": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "oration. address delivered to an audience."
+            },
+            "similarity_score": 0.04010316112778295
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "heart failure. failure of the heart to provide sufficient blood flow."
+            },
+            "similarity_score": 0.037440186628192595
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information."
+            },
+            "similarity_score": 0.03650601403439212
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities."
+            },
+            "similarity_score": 0.03509628402315186
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "drug costs. amount that a health care institution or organization pays for its drugs."
+            },
+            "similarity_score": 0.03190039756913217
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Provider-physician arrangements: an uneasy alliance under fraud, abuse, and inurement.. scientific article published on January 1990."
+            },
+            "similarity_score": 0.03146882464431876
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "attending physician. attending physician."
+            },
+            "similarity_score": 0.03139687742461626
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "health care. prevention of disease and promotion of wellbeing of humans and animals."
+            },
+            "similarity_score": 0.030900511714998125
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "beneficiary. person or other legal entity who receives money or other benefits from a benefactor."
+            },
+            "similarity_score": 0.030897908279454087
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Diabetes UK. British-based patient, healthcare professional and research charity."
+            },
+            "similarity_score": 0.03077684786862347
+          }
+        ],
+        "relationships": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "train melody. music that tells you that a train is leaving or arriving at a train station."
+            },
+            "similarity_score": 0.032110226351415826
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Academy of Russian Television person ID. identifier of person in Academy of Russian Television."
+            },
+            "similarity_score": 0.03072799570239827
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation."
+            },
+            "similarity_score": 0.030636257199347924
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary."
+            },
+            "similarity_score": 0.02957033600407929
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia."
+            },
+            "similarity_score": 0.02905595836367934
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "State Duma person ID. ."
+            },
+            "similarity_score": 0.028550425422529856
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website."
+            },
+            "similarity_score": 0.02735334134300023
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Museu da Pessoa History. Wikimedia Commons PDF file of a story in the Museu da Pessoa about or by the subject."
+            },
+            "similarity_score": 0.026961777211496223
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary."
+            },
+            "similarity_score": 0.02687222106254927
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Atlas Project of Roman Aqueducts ID. identifier of an ancient Roman aqueduct at the Atlas Project of Roman Aqueducts."
+            },
+            "similarity_score": 0.026726809906426174
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 6,
+      "question_id": "question_5",
+      "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_esrd_ind and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;end stage renal disease indicator \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+      "similar_items": {
+        "entities": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "oration. address delivered to an audience."
+            },
+            "similarity_score": 0.050489725443307376
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities."
+            },
+            "similarity_score": 0.04929409932053674
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "heart failure. failure of the heart to provide sufficient blood flow."
+            },
+            "similarity_score": 0.0488269008151102
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information."
+            },
+            "similarity_score": 0.04642848469782575
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "beneficiary. person or other legal entity who receives money or other benefits from a benefactor."
+            },
+            "similarity_score": 0.04516973816884856
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "health care. prevention of disease and promotion of wellbeing of humans and animals."
+            },
+            "similarity_score": 0.044126488894466034
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "chronic obstructive pulmonary disease. lung disease involving long-term poor airflow."
+            },
+            "similarity_score": 0.044038014341690954
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "drug costs. amount that a health care institution or organization pays for its drugs."
+            },
+            "similarity_score": 0.043976412842600066
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "proposition. idea that is true or false and may be expressed in a declarative sentence."
+            },
+            "similarity_score": 0.04322718982301341
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "state. organised community living under a system of government; either a sovereign state, constituent state, or federated state."
+            },
+            "similarity_score": 0.043004732920625385
+          }
+        ],
+        "relationships": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "train melody. music that tells you that a train is leaving or arriving at a train station."
+            },
+            "similarity_score": 0.042778133188472574
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary."
+            },
+            "similarity_score": 0.04099049530009434
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Academy of Russian Television person ID. identifier of person in Academy of Russian Television."
+            },
+            "similarity_score": 0.04009555981399959
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia."
+            },
+            "similarity_score": 0.03956365669905532
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website."
+            },
+            "similarity_score": 0.039283807214584174
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear."
+            },
+            "similarity_score": 0.039134307048916184
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)."
+            },
+            "similarity_score": 0.03892022239167828
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary."
+            },
+            "similarity_score": 0.03817058376202076
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "record held. notable record achieved by a person or entity, include qualifiers for dates held."
+            },
+            "similarity_score": 0.03814467574485919
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "State Duma person ID. ."
+            },
+            "similarity_score": 0.03800467572938187
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 7,
+      "question_id": "question_6",
+      "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-sp_state_code and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;state code \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+      "similar_items": {
+        "entities": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "oration. address delivered to an audience."
+            },
+            "similarity_score": 0.0489349686297874
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "heart failure. failure of the heart to provide sufficient blood flow."
+            },
+            "similarity_score": 0.04626287611248631
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information."
+            },
+            "similarity_score": 0.04457518533799862
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities."
+            },
+            "similarity_score": 0.04319157339907696
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "beneficiary. person or other legal entity who receives money or other benefits from a benefactor."
+            },
+            "similarity_score": 0.04301330044188068
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Diabetes UK. British-based patient, healthcare professional and research charity."
+            },
+            "similarity_score": 0.04233507817954494
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "drug costs. amount that a health care institution or organization pays for its drugs."
+            },
+            "similarity_score": 0.042200594897440616
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Provider-physician arrangements: an uneasy alliance under fraud, abuse, and inurement.. scientific article published on January 1990."
+            },
+            "similarity_score": 0.040870572728882545
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Time. American news magazine and website."
+            },
+            "similarity_score": 0.04060238681809909
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "chronic obstructive pulmonary disease. lung disease involving long-term poor airflow."
+            },
+            "similarity_score": 0.04046999526129351
+          }
+        ],
+        "relationships": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "train melody. music that tells you that a train is leaving or arriving at a train station."
+            },
+            "similarity_score": 0.0440203588004526
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Academy of Russian Television person ID. identifier of person in Academy of Russian Television."
+            },
+            "similarity_score": 0.041912767374677265
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "State Duma person ID. ."
+            },
+            "similarity_score": 0.039865298716144464
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary."
+            },
+            "similarity_score": 0.03945643033396186
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia."
+            },
+            "similarity_score": 0.0384832199194107
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website."
+            },
+            "similarity_score": 0.03848216597794572
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation."
+            },
+            "similarity_score": 0.03790812771105405
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear."
+            },
+            "similarity_score": 0.03770360693636508
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Arachne.org.au ID. numerical identifier for an arachnid taxon in the Arachne.org.au database."
+            },
+            "similarity_score": 0.037691382968441725
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Osmose Agency person ID. identifier for a person on Osmose Agency website."
+            },
+            "similarity_score": 0.0371528755964477
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 8,
+      "question_id": "question_7",
+      "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_county_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;county code \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+      "similar_items": {
+        "entities": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "oration. address delivered to an audience."
+            },
+            "similarity_score": 0.050686488510200765
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information."
+            },
+            "similarity_score": 0.04797651037452174
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "heart failure. failure of the heart to provide sufficient blood flow."
+            },
+            "similarity_score": 0.04749083652670899
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities."
+            },
+            "similarity_score": 0.046296333456174885
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "beneficiary. person or other legal entity who receives money or other benefits from a benefactor."
+            },
+            "similarity_score": 0.043690451280569115
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Provider-physician arrangements: an uneasy alliance under fraud, abuse, and inurement.. scientific article published on January 1990."
+            },
+            "similarity_score": 0.043166326767940105
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Diabetes UK. British-based patient, healthcare professional and research charity."
+            },
+            "similarity_score": 0.043111145944336245
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "chronic obstructive pulmonary disease. lung disease involving long-term poor airflow."
+            },
+            "similarity_score": 0.04292705606210745
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "drug costs. amount that a health care institution or organization pays for its drugs."
+            },
+            "similarity_score": 0.04256447741302204
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "state. organised community living under a system of government; either a sovereign state, constituent state, or federated state."
+            },
+            "similarity_score": 0.04180396309057053
+          }
+        ],
+        "relationships": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "train melody. music that tells you that a train is leaving or arriving at a train station."
+            },
+            "similarity_score": 0.04398345398600883
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Academy of Russian Television person ID. identifier of person in Academy of Russian Television."
+            },
+            "similarity_score": 0.04139959508121052
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary."
+            },
+            "similarity_score": 0.04133389565211743
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website."
+            },
+            "similarity_score": 0.03960256603037374
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation."
+            },
+            "similarity_score": 0.03927053855533082
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Arachne.org.au ID. numerical identifier for an arachnid taxon in the Arachne.org.au database."
+            },
+            "similarity_score": 0.03849474540835374
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)."
+            },
+            "similarity_score": 0.03846377858976399
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia."
+            },
+            "similarity_score": 0.038361358548002815
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear."
+            },
+            "similarity_score": 0.03811197257356928
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary."
+            },
+            "similarity_score": 0.037512000310700046
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 9,
+      "question_id": "question_8",
+      "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_hi_cvrage_tot_mons and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;total number of months of part a coverage for the beneficiary. \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+      "similar_items": {
+        "entities": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "oration. address delivered to an audience."
+            },
+            "similarity_score": 0.04486833116682429
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "heart failure. failure of the heart to provide sufficient blood flow."
+            },
+            "similarity_score": 0.040224026775193024
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information."
+            },
+            "similarity_score": 0.040159995862922016
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities."
+            },
+            "similarity_score": 0.038109657057098976
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "health care. prevention of disease and promotion of wellbeing of humans and animals."
+            },
+            "similarity_score": 0.03680467125765433
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "drug costs. amount that a health care institution or organization pays for its drugs."
+            },
+            "similarity_score": 0.03643753866524992
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "attending physician. attending physician."
+            },
+            "similarity_score": 0.03617820201720045
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "beneficiary. person or other legal entity who receives money or other benefits from a benefactor."
+            },
+            "similarity_score": 0.03590462621198873
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Medical History. journal."
+            },
+            "similarity_score": 0.03531626591702249
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Diabetes UK. British-based patient, healthcare professional and research charity."
+            },
+            "similarity_score": 0.0352735603342955
+          }
+        ],
+        "relationships": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "train melody. music that tells you that a train is leaving or arriving at a train station."
+            },
+            "similarity_score": 0.03689913237807556
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Academy of Russian Television person ID. identifier of person in Academy of Russian Television."
+            },
+            "similarity_score": 0.03401718834195942
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia."
+            },
+            "similarity_score": 0.0337666484545962
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "State Duma person ID. ."
+            },
+            "similarity_score": 0.0331774841543235
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation."
+            },
+            "similarity_score": 0.03312880413179781
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary."
+            },
+            "similarity_score": 0.032209584494578586
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Arachne.org.au ID. numerical identifier for an arachnid taxon in the Arachne.org.au database."
+            },
+            "similarity_score": 0.031669815832960954
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear."
+            },
+            "similarity_score": 0.031048824397528173
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "record held. notable record achieved by a person or entity, include qualifiers for dates held."
+            },
+            "similarity_score": 0.030530354158650488
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary."
+            },
+            "similarity_score": 0.030523018397724297
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 10,
+      "question_id": "question_9",
+      "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_smi_cvrage_tot_mons and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;total number of months of part b coverage for the beneficiary. \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+      "similar_items": {
+        "entities": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "oration. address delivered to an audience."
+            },
+            "similarity_score": 0.04416632666691903
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information."
+            },
+            "similarity_score": 0.039317667108828176
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "heart failure. failure of the heart to provide sufficient blood flow."
+            },
+            "similarity_score": 0.039316482676756546
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities."
+            },
+            "similarity_score": 0.03815082783803929
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "health care. prevention of disease and promotion of wellbeing of humans and animals."
+            },
+            "similarity_score": 0.036394797594613955
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "attending physician. attending physician."
+            },
+            "similarity_score": 0.03590882832801355
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Medical History. journal."
+            },
+            "similarity_score": 0.03539512931647599
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "drug costs. amount that a health care institution or organization pays for its drugs."
+            },
+            "similarity_score": 0.03536360115879976
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "datetime. Python library."
+            },
+            "similarity_score": 0.0353631395938337
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "state. organised community living under a system of government; either a sovereign state, constituent state, or federated state."
+            },
+            "similarity_score": 0.035056664423461226
+          }
+        ],
+        "relationships": [
+          {
+            "rank": 1,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "train melody. music that tells you that a train is leaving or arriving at a train station."
+            },
+            "similarity_score": 0.035633621163865724
+          },
+          {
+            "rank": 2,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Academy of Russian Television person ID. identifier of person in Academy of Russian Television."
+            },
+            "similarity_score": 0.03431763054918195
+          },
+          {
+            "rank": 3,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia."
+            },
+            "similarity_score": 0.03350708097082213
+          },
+          {
+            "rank": 4,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation."
+            },
+            "similarity_score": 0.032934720838205256
+          },
+          {
+            "rank": 5,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "State Duma person ID. ."
+            },
+            "similarity_score": 0.03270690725759799
+          },
+          {
+            "rank": 6,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary."
+            },
+            "similarity_score": 0.03196586936941843
+          },
+          {
+            "rank": 7,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear."
+            },
+            "similarity_score": 0.03153859763034763
+          },
+          {
+            "rank": 8,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Arachne.org.au ID. numerical identifier for an arachnid taxon in the Arachne.org.au database."
+            },
+            "similarity_score": 0.03132469784289777
+          },
+          {
+            "rank": 9,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary."
+            },
+            "similarity_score": 0.030802938194259274
+          },
+          {
+            "rank": 10,
+            "wikidata_id": null,
+            "metadata": {
+              "text": "applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)."
+            },
+            "similarity_score": 0.03033678019755021
+          }
+        ]
+      }
+    }
+  ]
+}

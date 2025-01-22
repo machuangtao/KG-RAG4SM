@@ -1,0 +1,2498 @@
+{
+  "question_3": {
+    "question_id": "question_3",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_sex_ident_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;sex \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4848376214504242
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4662633538246155
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.44505566358566284
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.4301411509513855
+      },
+      {
+        "head": {
+          "id": "Q2482335",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q486972",
+          "text": "corrimony Corrimony"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "community Populated places human community inhabited place Inhabited locality locality (settlement) Populated Place towns and villages settlement inhabited locality populated place Towns and Villages human settlements settlement (community) human settlement/archive 1 Human settlements Populated place Settlement (community) Inhabited localities human settlement Human settlement/Archive 1 populated places inhabited localities Locality (settlement) Human settlement"
+        },
+        "score": 0.427196741104126
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.4230705499649048
+      },
+      {
+        "head": {
+          "id": "Q6786218",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match Mates match mates matchmates Matchmates"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.4223611354827881
+      },
+      {
+        "head": {
+          "id": "Q25245392",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "semaconnect SemaConnect"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.42093318700790405
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.41864392161369324
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4185585081577301
+      }
+    ]
+  },
+  "question_2": {
+    "question_id": "question_2",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_death_dt and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;date of death \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4705633521080017
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.46002382040023804
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4252494275569916
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.4203778803348541
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.4106222987174988
+      },
+      {
+        "head": {
+          "id": "Q6786218",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match Mates match mates matchmates Matchmates"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.40895581245422363
+      },
+      {
+        "head": {
+          "id": "Q2482335",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q486972",
+          "text": "corrimony Corrimony"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "community Populated places human community inhabited place Inhabited locality locality (settlement) Populated Place towns and villages settlement inhabited locality populated place Towns and Villages human settlements settlement (community) human settlement/archive 1 Human settlements Populated place Settlement (community) Inhabited localities human settlement Human settlement/Archive 1 populated places inhabited localities Locality (settlement) Human settlement"
+        },
+        "score": 0.40570002794265747
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4044337570667267
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.4025631844997406
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.40032759308815
+      }
+    ]
+  },
+  "question_1": {
+    "question_id": "question_1",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_birth_dt and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;date of birth \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4701341986656189
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.46427810192108154
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4246048331260681
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.41457271575927734
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.4112621545791626
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.40642449259757996
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.40320825576782227
+      },
+      {
+        "head": {
+          "id": "Q1408390",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q11016",
+          "text": "schema matching Schema Matching schema mapping Schema matching Schema mapping"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "p:t impact of technology P:TECH techonology Technology systems General technology technologies infant new technology Technology portal Books/Technology Technologies Technology system Virtual technology technological technology portal general technology technology and applied sciences technologically Technological books/technology تکنولوژی technocology Technology and applied sciences Technological level P:T modern technology Technocology p:tech TechnologY technology butler technology system Technology butler technology systems Technology Technologically Technolog Impact of technology technological level Infant new technology Modern technology Techonology technolog virtual technology"
+        },
+        "score": 0.40049952268600464
+      },
+      {
+        "head": {
+          "id": "Q6786218",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match Mates match mates matchmates Matchmates"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.3994116187095642
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.3992156684398651
+      }
+    ]
+  },
+  "question_0": {
+    "question_id": "question_0",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-desynpuf_id and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;beneficiary code \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.487097829580307
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4835216999053955
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.44851839542388916
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4484962522983551
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4313821792602539
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.43085747957229614
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.4283260107040405
+      },
+      {
+        "head": {
+          "id": "Q25245392",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "semaconnect SemaConnect"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4260064363479614
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.4235348701477051
+      },
+      {
+        "head": {
+          "id": "Q1408390",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q11016",
+          "text": "schema matching Schema Matching schema mapping Schema matching Schema mapping"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "p:t impact of technology P:TECH techonology Technology systems General technology technologies infant new technology Technology portal Books/Technology Technologies Technology system Virtual technology technological technology portal general technology technology and applied sciences technologically Technological books/technology تکنولوژی technocology Technology and applied sciences Technological level P:T modern technology Technocology p:tech TechnologY technology butler technology system Technology butler technology systems Technology Technologically Technolog Impact of technology technological level Infant new technology Modern technology Techonology technolog virtual technology"
+        },
+        "score": 0.4226832091808319
+      }
+    ]
+  },
+  "question_7": {
+    "question_id": "question_7",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_county_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;county code \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.482299268245697
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4713284969329834
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4463224411010742
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.4356706142425537
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.42423200607299805
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.4241335988044739
+      },
+      {
+        "head": {
+          "id": "Q25245392",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "semaconnect SemaConnect"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.42326658964157104
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.42008334398269653
+      },
+      {
+        "head": {
+          "id": "Q2482335",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q486972",
+          "text": "corrimony Corrimony"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "community Populated places human community inhabited place Inhabited locality locality (settlement) Populated Place towns and villages settlement inhabited locality populated place Towns and Villages human settlements settlement (community) human settlement/archive 1 Human settlements Populated place Settlement (community) Inhabited localities human settlement Human settlement/Archive 1 populated places inhabited localities Locality (settlement) Human settlement"
+        },
+        "score": 0.41912272572517395
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.41735589504241943
+      }
+    ]
+  },
+  "question_4": {
+    "question_id": "question_4",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_race_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;beneficiary race code \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4843735992908478
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.47845566272735596
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.4387397766113281
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.43699800968170166
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.42342472076416016
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.423059344291687
+      },
+      {
+        "head": {
+          "id": "Q2482335",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q486972",
+          "text": "corrimony Corrimony"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "community Populated places human community inhabited place Inhabited locality locality (settlement) Populated Place towns and villages settlement inhabited locality populated place Towns and Villages human settlements settlement (community) human settlement/archive 1 Human settlements Populated place Settlement (community) Inhabited localities human settlement Human settlement/Archive 1 populated places inhabited localities Locality (settlement) Human settlement"
+        },
+        "score": 0.4229375720024109
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.4223710596561432
+      },
+      {
+        "head": {
+          "id": "Q6786218",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match Mates match mates matchmates Matchmates"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.42122966051101685
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.4151143431663513
+      }
+    ]
+  },
+  "question_5": {
+    "question_id": "question_5",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_esrd_ind and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;end stage renal disease indicator \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.5001775026321411
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4771430492401123
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.44934865832328796
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.43927234411239624
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.43539854884147644
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.43389055132865906
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.43234163522720337
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.4266585111618042
+      },
+      {
+        "head": {
+          "id": "Q2482335",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q486972",
+          "text": "corrimony Corrimony"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "community Populated places human community inhabited place Inhabited locality locality (settlement) Populated Place towns and villages settlement inhabited locality populated place Towns and Villages human settlements settlement (community) human settlement/archive 1 Human settlements Populated place Settlement (community) Inhabited localities human settlement Human settlement/Archive 1 populated places inhabited localities Locality (settlement) Human settlement"
+        },
+        "score": 0.4240538477897644
+      },
+      {
+        "head": {
+          "id": "Q6786218",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match Mates match mates matchmates Matchmates"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.4221140146255493
+      }
+    ]
+  },
+  "question_6": {
+    "question_id": "question_6",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-sp_state_code and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;state code \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.47825777530670166
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4690253436565399
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.4426140785217285
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.4345426559448242
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4311724901199341
+      },
+      {
+        "head": {
+          "id": "Q2482335",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q486972",
+          "text": "corrimony Corrimony"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "community Populated places human community inhabited place Inhabited locality locality (settlement) Populated Place towns and villages settlement inhabited locality populated place Towns and Villages human settlements settlement (community) human settlement/archive 1 Human settlements Populated place Settlement (community) Inhabited localities human settlement Human settlement/Archive 1 populated places inhabited localities Locality (settlement) Human settlement"
+        },
+        "score": 0.41873639822006226
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.41835758090019226
+      },
+      {
+        "head": {
+          "id": "Q7393667",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q11446",
+          "text": "SS Equality State IMO 5386605 SS Equality State (T-ACS-8) ss equality state (t-acs-8) SS Equality State (ACS-8) ss equality state (acs-8) ss equality state imo 5386605"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "ship/doc ship/special/sandbox Warshipl Wooden ship Ships M/S/doc ship/maintenancecategory WPSHIPS: Template Ship parameter errors Ocean-going vessel Ship/special/sandbox Ship/doc Ship/maintenancecategory ship or vessel wooden ship Ship/maintenancecategory/sandbox M/S/sandbox warshipl Warship/doc ship/sandbox ship/maintenancecategory/sandbox ocean-going vessel m/s/sandbox warship/doc Ship/testcases ship/testcases Ship or vessel 🚢 Ship/special wpships: template ship parameter errors m/s/doc Ship/sandbox -ship ship/special"
+        },
+        "score": 0.4180079996585846
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.41679659485816956
+      },
+      {
+        "head": {
+          "id": "Q1408390",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q11016",
+          "text": "schema matching Schema Matching schema mapping Schema matching Schema mapping"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "p:t impact of technology P:TECH techonology Technology systems General technology technologies infant new technology Technology portal Books/Technology Technologies Technology system Virtual technology technological technology portal general technology technology and applied sciences technologically Technological books/technology تکنولوژی technocology Technology and applied sciences Technological level P:T modern technology Technocology p:tech TechnologY technology butler technology system Technology butler technology systems Technology Technologically Technolog Impact of technology technological level Infant new technology Modern technology Techonology technolog virtual technology"
+        },
+        "score": 0.4153803586959839
+      }
+    ]
+  },
+  "question_10": {
+    "question_id": "question_10",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_hmo_cvrage_tot_mons and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;total number of months of hmo coverage for the beneficiary. \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4743017256259918
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.47108253836631775
+      },
+      {
+        "head": {
+          "id": "Q1408390",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q11016",
+          "text": "schema matching Schema Matching schema mapping Schema matching Schema mapping"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "p:t impact of technology P:TECH techonology Technology systems General technology technologies infant new technology Technology portal Books/Technology Technologies Technology system Virtual technology technological technology portal general technology technology and applied sciences technologically Technological books/technology تکنولوژی technocology Technology and applied sciences Technological level P:T modern technology Technocology p:tech TechnologY technology butler technology system Technology butler technology systems Technology Technologically Technolog Impact of technology technological level Infant new technology Modern technology Techonology technolog virtual technology"
+        },
+        "score": 0.4300914406776428
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4264836609363556
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.4255903959274292
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.4222409725189209
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.42091161012649536
+      },
+      {
+        "head": {
+          "id": "Q2433544",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q15104915",
+          "text": "hazar-osman–guneshli Azeri–Chirag–Gunashli azeri-chirag-deepwater gunashli azeri-chirag-guneshli azeri-chirag-gunashli Azeri-Chirag-Gunashli azeri–chirag–guneshli Azeri-Chirag-Deepwater Gunashli Azeri–Chirag–Deepwater Gunashli azəri-çıraq-günəşli Azəri-Çıraq-Günəşli Hazar-Osman-Guneshli Hazar-Osman–Guneshli Azeri–Chirag–Guneshli hazar-osman-guneshli Azeri-Chirag-Guneshli azeri–chirag–deepwater gunashli azeri–chirag–gunashli"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "field (mineral deposit) Field (mineral deposit)"
+        },
+        "score": 0.4154675006866455
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.4138535261154175
+      },
+      {
+        "head": {
+          "id": "Q2482335",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q486972",
+          "text": "corrimony Corrimony"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "community Populated places human community inhabited place Inhabited locality locality (settlement) Populated Place towns and villages settlement inhabited locality populated place Towns and Villages human settlements settlement (community) human settlement/archive 1 Human settlements Populated place Settlement (community) Inhabited localities human settlement Human settlement/Archive 1 populated places inhabited localities Locality (settlement) Human settlement"
+        },
+        "score": 0.41324758529663086
+      }
+    ]
+  },
+  "question_9": {
+    "question_id": "question_9",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_smi_cvrage_tot_mons and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;total number of months of part b coverage for the beneficiary. \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4786355495452881
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4676063060760498
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4320608973503113
+      },
+      {
+        "head": {
+          "id": "Q1408390",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q11016",
+          "text": "schema matching Schema Matching schema mapping Schema matching Schema mapping"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "p:t impact of technology P:TECH techonology Technology systems General technology technologies infant new technology Technology portal Books/Technology Technologies Technology system Virtual technology technological technology portal general technology technology and applied sciences technologically Technological books/technology تکنولوژی technocology Technology and applied sciences Technological level P:T modern technology Technocology p:tech TechnologY technology butler technology system Technology butler technology systems Technology Technologically Technolog Impact of technology technological level Infant new technology Modern technology Techonology technolog virtual technology"
+        },
+        "score": 0.4261365830898285
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.4243718087673187
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.4195796251296997
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.41863566637039185
+      },
+      {
+        "head": {
+          "id": "Q2433544",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q15104915",
+          "text": "hazar-osman–guneshli Azeri–Chirag–Gunashli azeri-chirag-deepwater gunashli azeri-chirag-guneshli azeri-chirag-gunashli Azeri-Chirag-Gunashli azeri–chirag–guneshli Azeri-Chirag-Deepwater Gunashli Azeri–Chirag–Deepwater Gunashli azəri-çıraq-günəşli Azəri-Çıraq-Günəşli Hazar-Osman-Guneshli Hazar-Osman–Guneshli Azeri–Chirag–Guneshli hazar-osman-guneshli Azeri-Chirag-Guneshli azeri–chirag–deepwater gunashli azeri–chirag–gunashli"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "field (mineral deposit) Field (mineral deposit)"
+        },
+        "score": 0.41796696186065674
+      },
+      {
+        "head": {
+          "id": "Q25245392",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "semaconnect SemaConnect"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4176785349845886
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.41326332092285156
+      }
+    ]
+  },
+  "question_11": {
+    "question_id": "question_11",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-plan_cvrg_mos_num and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;total number of months of part d plan coverage for the beneficiary. \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4924057126045227
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.47622185945510864
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.44090408086776733
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.4331251084804535
+      },
+      {
+        "head": {
+          "id": "Q1408390",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q11016",
+          "text": "schema matching Schema Matching schema mapping Schema matching Schema mapping"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "p:t impact of technology P:TECH techonology Technology systems General technology technologies infant new technology Technology portal Books/Technology Technologies Technology system Virtual technology technological technology portal general technology technology and applied sciences technologically Technological books/technology تکنولوژی technocology Technology and applied sciences Technological level P:T modern technology Technocology p:tech TechnologY technology butler technology system Technology butler technology systems Technology Technologically Technolog Impact of technology technological level Infant new technology Modern technology Techonology technolog virtual technology"
+        },
+        "score": 0.4300113022327423
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.4275283217430115
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.4265514612197876
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.42012423276901245
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.41823315620422363
+      },
+      {
+        "head": {
+          "id": "Q6786218",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match Mates match mates matchmates Matchmates"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.41464370489120483
+      }
+    ]
+  },
+  "question_8": {
+    "question_id": "question_8",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-bene_hi_cvrage_tot_mons and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;total number of months of part a coverage for the beneficiary. \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4910746216773987
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4639970064163208
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4510657787322998
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.44181209802627563
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.43024933338165283
+      },
+      {
+        "head": {
+          "id": "Q1408390",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q11016",
+          "text": "schema matching Schema Matching schema mapping Schema matching Schema mapping"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "p:t impact of technology P:TECH techonology Technology systems General technology technologies infant new technology Technology portal Books/Technology Technologies Technology system Virtual technology technological technology portal general technology technology and applied sciences technologically Technological books/technology تکنولوژی technocology Technology and applied sciences Technological level P:T modern technology Technocology p:tech TechnologY technology butler technology system Technology butler technology systems Technology Technologically Technolog Impact of technology technological level Infant new technology Modern technology Techonology technolog virtual technology"
+        },
+        "score": 0.42993927001953125
+      },
+      {
+        "head": {
+          "id": "Q6786218",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match Mates match mates matchmates Matchmates"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.4157116711139679
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.41480809450149536
+      },
+      {
+        "head": {
+          "id": "Q17109131",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Make a Match make a match"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.4100871682167053
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.4076857268810272
+      }
+    ]
+  },
+  "question_12": {
+    "question_id": "question_12",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-sp_alzhdmta and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;chronic condition: alzheimer or related disorders or senile \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.5191081166267395
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.48312386870384216
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.45959019660949707
+      },
+      {
+        "head": {
+          "id": "Q1408390",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q11016",
+          "text": "schema matching Schema Matching schema mapping Schema matching Schema mapping"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "p:t impact of technology P:TECH techonology Technology systems General technology technologies infant new technology Technology portal Books/Technology Technologies Technology system Virtual technology technological technology portal general technology technology and applied sciences technologically Technological books/technology تکنولوژی technocology Technology and applied sciences Technological level P:T modern technology Technocology p:tech TechnologY technology butler technology system Technology butler technology systems Technology Technologically Technolog Impact of technology technological level Infant new technology Modern technology Techonology technolog virtual technology"
+        },
+        "score": 0.4469698667526245
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.44279351830482483
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.44180119037628174
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4357927441596985
+      },
+      {
+        "head": {
+          "id": "Q24910279",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "I Have a Bee I have a Bee i have a bee IHAB"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4318079352378845
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.4314499497413635
+      },
+      {
+        "head": {
+          "id": "Q6786218",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match Mates match mates matchmates Matchmates"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.42664146423339844
+      }
+    ]
+  },
+  "question_15": {
+    "question_id": "question_15",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-sp_cncr and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;chronic condition: cancer \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.49180173873901367
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4636262357234955
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4420534670352936
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.43186506628990173
+      },
+      {
+        "head": {
+          "id": "Q2482335",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q486972",
+          "text": "corrimony Corrimony"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "community Populated places human community inhabited place Inhabited locality locality (settlement) Populated Place towns and villages settlement inhabited locality populated place Towns and Villages human settlements settlement (community) human settlement/archive 1 Human settlements Populated place Settlement (community) Inhabited localities human settlement Human settlement/Archive 1 populated places inhabited localities Locality (settlement) Human settlement"
+        },
+        "score": 0.42563867568969727
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.4204217791557312
+      },
+      {
+        "head": {
+          "id": "Q25245392",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "semaconnect SemaConnect"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4162035584449768
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4160301089286804
+      },
+      {
+        "head": {
+          "id": "Q6786218",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match Mates match mates matchmates Matchmates"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.4147176146507263
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.4142884612083435
+      }
+    ]
+  },
+  "question_13": {
+    "question_id": "question_13",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-sp_chf and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;chronic condition: heart failure \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4987252354621887
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4788321554660797
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.44935154914855957
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.43722614645957947
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4321434795856476
+      },
+      {
+        "head": {
+          "id": "Q2482335",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q486972",
+          "text": "corrimony Corrimony"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "community Populated places human community inhabited place Inhabited locality locality (settlement) Populated Place towns and villages settlement inhabited locality populated place Towns and Villages human settlements settlement (community) human settlement/archive 1 Human settlements Populated place Settlement (community) Inhabited localities human settlement Human settlement/Archive 1 populated places inhabited localities Locality (settlement) Human settlement"
+        },
+        "score": 0.42945730686187744
+      },
+      {
+        "head": {
+          "id": "Q25245392",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "semaconnect SemaConnect"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.42924535274505615
+      },
+      {
+        "head": {
+          "id": "Q513977",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q507619",
+          "text": "match (supermarket) Match (supermarket)"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "Business chains shopping chain chainstore chain stores Franchised restaurant franchise restaurant Store chain restaurant chains multiple shop Multiple shop Business chain Chain restaurants Formula business restaurant franchise Chain Store Restaurant chain chain restaurants chain store retail chain Formula-retail Retail chains chain restaurant Restaurant franchise formula retail retail chains franchised restaurant Formula retail Restaurant franchises restaurant franchises Retail chain Restaurant chains Shopping chain Multiple store store chain restaurant chain formula-retail Chain restaurant business chains Chain retailing business chain Chain stores Chainstore multiple store chain retailing Franchise restaurant formula business Chain store"
+        },
+        "score": 0.4287669062614441
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.4275652766227722
+      },
+      {
+        "head": {
+          "id": "Q6786218",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match Mates match mates matchmates Matchmates"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.42358314990997314
+      }
+    ]
+  },
+  "question_14": {
+    "question_id": "question_14",
+    "question_text": "Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. \n Attribute 2 beneficiarysummary-sp_chrnkidn and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;chronic condition: chronic kidney disease \n Do attribute 1 and atttribute 2 are semantically matched with each other?",
+    "similar_triplets": [
+      {
+        "head": {
+          "id": "Q25056749",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "match analysis Match Analysis"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4978710114955902
+      },
+      {
+        "head": {
+          "id": "Q2113197",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "Non-prime attribute prime attribute candidate key (template) Prime attribute Candidate key (Template) candidate key non-prime attribute Candidate key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.4853951930999756
+      },
+      {
+        "head": {
+          "id": "Q22906778",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "Matchify matchify"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4462582767009735
+      },
+      {
+        "head": {
+          "id": "Q1056760",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q3667566",
+          "text": "foreign key constraint foreign key Foreign Key Foreign key constraint Foreign key"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "score": 0.44494181871414185
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P279"
+        },
+        "relation": {
+          "id": "Q6545185",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "subclass of rdfs:subClassOf hyponym of has superclass is also a subtype of is a subtype of subcategory of is a category of is thereby also a is necessarily also a whose instances are among whose instances ⊆ those of ⊆ ⊂ is a type of is a class of subset of type of form of",
+          "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code"
+        },
+        "score": 0.441328763961792
+      },
+      {
+        "head": {
+          "id": "Q2482335",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q486972",
+          "text": "corrimony Corrimony"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "community Populated places human community inhabited place Inhabited locality locality (settlement) Populated Place towns and villages settlement inhabited locality populated place Towns and Villages human settlements settlement (community) human settlement/archive 1 Human settlements Populated place Settlement (community) Inhabited localities human settlement Human settlement/Archive 1 populated places inhabited localities Locality (settlement) Human settlement"
+        },
+        "score": 0.4311161935329437
+      },
+      {
+        "head": {
+          "id": "Q25245392",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "semaconnect SemaConnect"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.4299371838569641
+      },
+      {
+        "head": {
+          "id": "Q6786215",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q5398426",
+          "text": "Match It match it"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "TV series TV-series tv series tv-series"
+        },
+        "score": 0.4285440742969513
+      },
+      {
+        "head": {
+          "id": "Q24910279",
+          "text": "P31"
+        },
+        "relation": {
+          "id": "Q783794",
+          "text": "I Have a Bee I have a Bee i have a bee IHAB"
+        },
+        "tail": {
+          "id": "instance of is a is an has class has type is a particular is a specific is an individual is a unique is an example of member of unique individual of distinct member of non-type member of unsubclassable example of uninstantiable instance of unsubclassifiable member of not a type but is instance of unsubtypable particular unitary element of class distinct element of distinct individual member of occurrence of rdf:type type",
+          "text": "compnay Incorporated company companies campany Company (legal) And sons comapny And company registered companies Campany And co. Registered company Cmpany company (legal) Company (law) company (law) registered company cmpany Comapny Coy. Registered Companies and sons coy. ㏇ and co. Companies and company incorporated company Compnay Company"
+        },
+        "score": 0.42733436822891235
+      },
+      {
+        "head": {
+          "id": "Q3667566",
+          "text": "P361"
+        },
+        "relation": {
+          "id": "Q192588",
+          "text": "Unique keys unique id unique keys Composite primary key Primary Key Key field Key (hash table) primary keys Key (database) unique key composite primary key Unique key Unique id key (hash table) key (database) Primary keys"
+        },
+        "tail": {
+          "id": "part of meronym of section of system of subsystem of subassembly of merged into contained within assembly of part of-property merged with component of in within is part of",
+          "text": "relational databases relational db Database relational relational database Relational databases database relational Relational database Database constraint relational instance Relational Database database constraints Relational query Relational instance constraint (database) Relational DB Relational Databases relational query Database constraints database constraint Constraint (database)"
+        },
+        "score": 0.4261605739593506
+      }
+    ]
+  }
+}

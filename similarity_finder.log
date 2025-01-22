@@ -1,0 +1,14 @@
+2024-11-21 17:57:31,511 [INFO] Initializing SimilarityFinder...
+2024-11-21 17:57:31,511 [INFO] Initializing ChromaDB clients...
+2024-11-21 17:57:31,866 [DEBUG] Logger created
+2024-11-21 17:57:31,870 [INFO] Successfully imported ClickHouse Connect C data optimizations
+2024-11-21 17:57:31,870 [INFO] Successfully import ClickHouse Connect C/Numpy optimizations
+2024-11-21 17:57:32,021 [INFO] Using orjson library for writing JSON byte strings
+2024-11-21 17:57:33,549 [INFO] Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-21 17:57:33,732 [INFO] Use pytorch device: cpu
+2024-11-21 17:57:33,734 [INFO] Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-21 17:57:33,818 [INFO] Use pytorch device: cpu
+2024-11-21 17:57:33,820 [INFO] Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-21 17:57:33,901 [INFO] Use pytorch device: cpu
+2024-11-21 17:57:33,902 [INFO] ChromaDB collections loaded successfully.
+2024-11-21 17:57:33,902 [INFO] Loading Entity mapping from entity_mapping.json...

@@ -1,0 +1,1082 @@
+{
+  "question_0": {
+    "question": "Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. \nAttribute 2 d_icd_diagnoses-icd9_code and its description 2 d_icd_diagnoses defines international classification of diseases version 9 (icd-9) codes for diagnoses.;icd9 code - note that this is a fixed length character field, as whitespaces are important in uniquely identifying icd-9 codes. \nDo attribute 1 and attribute 2 are semantically matched with each other?",
+    "similar_entities": [
+      {
+        "id": "Q6545185",
+        "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code",
+        "score": 0.41676491498947144
+      },
+      {
+        "id": "Q5532884",
+        "text": "Genetic codes (database) genetic codes (database)",
+        "score": 0.38791877031326294
+      },
+      {
+        "id": "Q28134066",
+        "text": "A9 (classification) a9 (classification)",
+        "score": 0.3817744851112366
+      },
+      {
+        "id": "Q2722260",
+        "text": "attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing)",
+        "score": 0.3737604320049286
+      },
+      {
+        "id": "Q4688981",
+        "text": "affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels",
+        "score": 0.3665703535079956
+      },
+      {
+        "id": "Q18045748",
+        "text": "gid2b GID2B CAD28476 cad28476 RMND5B (gene) rmnd5b (gene) GID2",
+        "score": 0.3647715747356415
+      },
+      {
+        "id": "Q515701",
+        "text": "linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier",
+        "score": 0.3508526682853699
+      },
+      {
+        "id": "Q18037664",
+        "text": "cldn15 (gene) CLDN15 CLDN15 (gene)",
+        "score": 0.3489249646663666
+      },
+      {
+        "id": "Q25670",
+        "text": "DOI prefix Dx.doi.org Digital Object Identifier Doi.org digital object identifier DOI System Digital Object Identifiers digital object identifiers international doi foundation International DOI Foundation ISO 26324 Digital object identifier doi suffix iso 26324 dx.doi.org DOI system doi prefix DOI code Doi system doi system DOI suffix Digital object identifiers doi.org doi code",
+        "score": 0.34878021478652954
+      },
+      {
+        "id": "Q18048128",
+        "text": "ODC1 SLC25A21 (gene) odc1 slc25a21 (gene)",
+        "score": 0.3393179178237915
+      }
+    ],
+    "similar_relations": [
+      {
+        "id": "P1913",
+        "text": "gene duplication association with",
+        "score": 0.3425142765045166
+      },
+      {
+        "id": "P2293",
+        "text": "genetic association",
+        "score": 0.27225857973098755
+      },
+      {
+        "id": "P1435",
+        "text": "heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status",
+        "score": 0.27139854431152344
+      },
+      {
+        "id": "P1382",
+        "text": "partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with",
+        "score": 0.2650083303451538
+      },
+      {
+        "id": "P1912",
+        "text": "deletion association with",
+        "score": 0.26407918334007263
+      },
+      {
+        "id": "P1552",
+        "text": "has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by",
+        "score": 0.22972984611988068
+      },
+      {
+        "id": "P3403",
+        "text": "coextensive with same territory as territory identical with coterminous with",
+        "score": 0.2045280635356903
+      },
+      {
+        "id": "P840",
+        "text": "narrative location setting location narrative set in location of narrative set in location takes place in playing in",
+        "score": 0.1929710954427719
+      },
+      {
+        "id": "P1001",
+        "text": "applies to jurisdiction of jurisdiction linked to jurisdiction belongs to jurisdiction jurisdiction country of jurisdiction valid in jurisdiction applies to territorial jurisdiction applied to jurisdiction",
+        "score": 0.1894623190164566
+      },
+      {
+        "id": "P1480",
+        "text": "sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation",
+        "score": 0.18510004878044128
+      }
+    ],
+    "processing_time": 367.4685800075531
+  },
+  "question_1": {
+    "question": "Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. \nAttribute 2 d_icd_diagnoses-short_title and its description 2 d_icd_diagnoses defines international classification of diseases version 9 (icd-9) codes for diagnoses.;short_title provides a brief definition for the given diagnosis code in icd9_code. \nDo attribute 1 and attribute 2 are semantically matched with each other?",
+    "similar_entities": [
+      {
+        "id": "Q6545185",
+        "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code",
+        "score": 0.428300142288208
+      },
+      {
+        "id": "Q4688981",
+        "text": "affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels",
+        "score": 0.4053812623023987
+      },
+      {
+        "id": "Q515701",
+        "text": "linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier",
+        "score": 0.39414921402931213
+      },
+      {
+        "id": "Q58748",
+        "text": "object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping",
+        "score": 0.3890987038612366
+      },
+      {
+        "id": "Q5532884",
+        "text": "Genetic codes (database) genetic codes (database)",
+        "score": 0.3881169259548187
+      },
+      {
+        "id": "Q2722260",
+        "text": "attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing)",
+        "score": 0.3820915222167969
+      },
+      {
+        "id": "Q5282129",
+        "text": "disease ontology identifier human disease ontology Human Disease Ontology Disease Ontology Identifier DOID Disease Ontology disease ontology doid Disease ontology",
+        "score": 0.36152422428131104
+      },
+      {
+        "id": "Q28134066",
+        "text": "A9 (classification) a9 (classification)",
+        "score": 0.35967472195625305
+      },
+      {
+        "id": "Q28134134",
+        "text": "SS2 (classification) ss2 (classification)",
+        "score": 0.35133686661720276
+      },
+      {
+        "id": "Q18045748",
+        "text": "gid2b GID2B CAD28476 cad28476 RMND5B (gene) rmnd5b (gene) GID2",
+        "score": 0.3510420024394989
+      }
+    ],
+    "similar_relations": [
+      {
+        "id": "P1913",
+        "text": "gene duplication association with",
+        "score": 0.35795021057128906
+      },
+      {
+        "id": "P1382",
+        "text": "partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with",
+        "score": 0.3046680688858032
+      },
+      {
+        "id": "P1912",
+        "text": "deletion association with",
+        "score": 0.3008895516395569
+      },
+      {
+        "id": "P2293",
+        "text": "genetic association",
+        "score": 0.28405630588531494
+      },
+      {
+        "id": "P1435",
+        "text": "heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status",
+        "score": 0.27457231283187866
+      },
+      {
+        "id": "P1552",
+        "text": "has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by",
+        "score": 0.25898051261901855
+      },
+      {
+        "id": "P3403",
+        "text": "coextensive with same territory as territory identical with coterminous with",
+        "score": 0.23131436109542847
+      },
+      {
+        "id": "P1480",
+        "text": "sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation",
+        "score": 0.222846120595932
+      },
+      {
+        "id": "P840",
+        "text": "narrative location setting location narrative set in location of narrative set in location takes place in playing in",
+        "score": 0.2107229232788086
+      },
+      {
+        "id": "P1039",
+        "text": "type of kinship kinship relationship (kinship) type of relationship",
+        "score": 0.2068793773651123
+      }
+    ],
+    "processing_time": 358.0260889530182
+  },
+  "question_2": {
+    "question": "Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. \nAttribute 2 d_icd_diagnoses-long_title and its description 2 d_icd_diagnoses defines international classification of diseases version 9 (icd-9) codes for diagnoses.;long_title provides a brief definition for the given diagnosis code in icd9_code. \nDo attribute 1 and attribute 2 are semantically matched with each other?",
+    "similar_entities": [
+      {
+        "id": "Q6545185",
+        "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code",
+        "score": 0.43256473541259766
+      },
+      {
+        "id": "Q515701",
+        "text": "linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier",
+        "score": 0.3981407880783081
+      },
+      {
+        "id": "Q4688981",
+        "text": "affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels",
+        "score": 0.39607739448547363
+      },
+      {
+        "id": "Q58748",
+        "text": "object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping",
+        "score": 0.3913482427597046
+      },
+      {
+        "id": "Q5532884",
+        "text": "Genetic codes (database) genetic codes (database)",
+        "score": 0.38523566722869873
+      },
+      {
+        "id": "Q2722260",
+        "text": "attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing)",
+        "score": 0.37937796115875244
+      },
+      {
+        "id": "Q5282129",
+        "text": "disease ontology identifier human disease ontology Human Disease Ontology Disease Ontology Identifier DOID Disease Ontology disease ontology doid Disease ontology",
+        "score": 0.3656062185764313
+      },
+      {
+        "id": "Q28134066",
+        "text": "A9 (classification) a9 (classification)",
+        "score": 0.3506321907043457
+      },
+      {
+        "id": "Q5014100",
+        "text": "CSHALS conference on semantics in healthcare and life sciences cshals Conference on Semantics in Healthcare and Life Sciences",
+        "score": 0.34714019298553467
+      },
+      {
+        "id": "Q28134134",
+        "text": "SS2 (classification) ss2 (classification)",
+        "score": 0.34470295906066895
+      }
+    ],
+    "similar_relations": [
+      {
+        "id": "P1913",
+        "text": "gene duplication association with",
+        "score": 0.3573487401008606
+      },
+      {
+        "id": "P1382",
+        "text": "partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with",
+        "score": 0.29937463998794556
+      },
+      {
+        "id": "P1912",
+        "text": "deletion association with",
+        "score": 0.2977113127708435
+      },
+      {
+        "id": "P2293",
+        "text": "genetic association",
+        "score": 0.28508344292640686
+      },
+      {
+        "id": "P1435",
+        "text": "heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status",
+        "score": 0.2746625542640686
+      },
+      {
+        "id": "P1552",
+        "text": "has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by",
+        "score": 0.2574709951877594
+      },
+      {
+        "id": "P3403",
+        "text": "coextensive with same territory as territory identical with coterminous with",
+        "score": 0.22673676908016205
+      },
+      {
+        "id": "P1480",
+        "text": "sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation",
+        "score": 0.22164517641067505
+      },
+      {
+        "id": "P840",
+        "text": "narrative location setting location narrative set in location of narrative set in location takes place in playing in",
+        "score": 0.21258457005023956
+      },
+      {
+        "id": "P1001",
+        "text": "applies to jurisdiction of jurisdiction linked to jurisdiction belongs to jurisdiction jurisdiction country of jurisdiction valid in jurisdiction applies to territorial jurisdiction applied to jurisdiction",
+        "score": 0.204708069562912
+      }
+    ],
+    "processing_time": 364.2478361129761
+  },
+  "question_3": {
+    "question": "Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. \nAttribute 2 d_icd_diagnoses-mimic_id and its description 2 d_icd_diagnoses defines international classification of diseases version 9 (icd-9) codes for diagnoses.;a unique id for all mimic tables. \nDo attribute 1 and attribute 2 are semantically matched with each other?",
+    "similar_entities": [
+      {
+        "id": "Q6545185",
+        "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code",
+        "score": 0.47928836941719055
+      },
+      {
+        "id": "Q5532884",
+        "text": "Genetic codes (database) genetic codes (database)",
+        "score": 0.41059809923171997
+      },
+      {
+        "id": "Q58748",
+        "text": "object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping",
+        "score": 0.40753138065338135
+      },
+      {
+        "id": "Q4688981",
+        "text": "affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels",
+        "score": 0.4011232852935791
+      },
+      {
+        "id": "Q515701",
+        "text": "linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier",
+        "score": 0.40077170729637146
+      },
+      {
+        "id": "Q18045748",
+        "text": "gid2b GID2B CAD28476 cad28476 RMND5B (gene) rmnd5b (gene) GID2",
+        "score": 0.3852301836013794
+      },
+      {
+        "id": "Q2722260",
+        "text": "attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing)",
+        "score": 0.3710717558860779
+      },
+      {
+        "id": "Q28134066",
+        "text": "A9 (classification) a9 (classification)",
+        "score": 0.37055617570877075
+      },
+      {
+        "id": "Q28134134",
+        "text": "SS2 (classification) ss2 (classification)",
+        "score": 0.3683299422264099
+      },
+      {
+        "id": "Q5282129",
+        "text": "disease ontology identifier human disease ontology Human Disease Ontology Disease Ontology Identifier DOID Disease Ontology disease ontology doid Disease ontology",
+        "score": 0.3670206069946289
+      }
+    ],
+    "similar_relations": [
+      {
+        "id": "P1913",
+        "text": "gene duplication association with",
+        "score": 0.3978079855442047
+      },
+      {
+        "id": "P2293",
+        "text": "genetic association",
+        "score": 0.30885741114616394
+      },
+      {
+        "id": "P1912",
+        "text": "deletion association with",
+        "score": 0.3084149956703186
+      },
+      {
+        "id": "P1382",
+        "text": "partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with",
+        "score": 0.3044455945491791
+      },
+      {
+        "id": "P1435",
+        "text": "heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status",
+        "score": 0.2715013325214386
+      },
+      {
+        "id": "P3403",
+        "text": "coextensive with same territory as territory identical with coterminous with",
+        "score": 0.2650570273399353
+      },
+      {
+        "id": "P1552",
+        "text": "has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by",
+        "score": 0.24895188212394714
+      },
+      {
+        "id": "P1480",
+        "text": "sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation",
+        "score": 0.23105543851852417
+      },
+      {
+        "id": "P840",
+        "text": "narrative location setting location narrative set in location of narrative set in location takes place in playing in",
+        "score": 0.2209969162940979
+      },
+      {
+        "id": "P1039",
+        "text": "type of kinship kinship relationship (kinship) type of relationship",
+        "score": 0.21929344534873962
+      }
+    ],
+    "processing_time": 360.9944725036621
+  },
+  "question_4": {
+    "question": "Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. \nAttribute 2 d_icd_procedures-short_title and its description 2 d_icd_procedures defines international classification of diseases version 9 (icd-9) codes for procedures.;short_title provides a brief definition for the given diagnosis code in icd9_code. \nDo attribute 1 and attribute 2 are semantically matched with each other?",
+    "similar_entities": [
+      {
+        "id": "Q6545185",
+        "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code",
+        "score": 0.4341549277305603
+      },
+      {
+        "id": "Q4688981",
+        "text": "affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels",
+        "score": 0.4113462269306183
+      },
+      {
+        "id": "Q5532884",
+        "text": "Genetic codes (database) genetic codes (database)",
+        "score": 0.3965021073818207
+      },
+      {
+        "id": "Q58748",
+        "text": "object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping",
+        "score": 0.38902944326400757
+      },
+      {
+        "id": "Q2722260",
+        "text": "attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing)",
+        "score": 0.388933002948761
+      },
+      {
+        "id": "Q28134066",
+        "text": "A9 (classification) a9 (classification)",
+        "score": 0.38888347148895264
+      },
+      {
+        "id": "Q515701",
+        "text": "linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier",
+        "score": 0.3862389326095581
+      },
+      {
+        "id": "Q5282129",
+        "text": "disease ontology identifier human disease ontology Human Disease Ontology Disease Ontology Identifier DOID Disease Ontology disease ontology doid Disease ontology",
+        "score": 0.3699004352092743
+      },
+      {
+        "id": "Q28134134",
+        "text": "SS2 (classification) ss2 (classification)",
+        "score": 0.3692280352115631
+      },
+      {
+        "id": "Q28134064",
+        "text": "A6 (classification) a6 (classification)",
+        "score": 0.3641861379146576
+      }
+    ],
+    "similar_relations": [
+      {
+        "id": "P1913",
+        "text": "gene duplication association with",
+        "score": 0.36418646574020386
+      },
+      {
+        "id": "P1382",
+        "text": "partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with",
+        "score": 0.3141157031059265
+      },
+      {
+        "id": "P1912",
+        "text": "deletion association with",
+        "score": 0.3043941855430603
+      },
+      {
+        "id": "P2293",
+        "text": "genetic association",
+        "score": 0.2902127504348755
+      },
+      {
+        "id": "P1435",
+        "text": "heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status",
+        "score": 0.2849811911582947
+      },
+      {
+        "id": "P1552",
+        "text": "has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by",
+        "score": 0.26100748777389526
+      },
+      {
+        "id": "P1480",
+        "text": "sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation",
+        "score": 0.23143035173416138
+      },
+      {
+        "id": "P3403",
+        "text": "coextensive with same territory as territory identical with coterminous with",
+        "score": 0.2282140552997589
+      },
+      {
+        "id": "P1039",
+        "text": "type of kinship kinship relationship (kinship) type of relationship",
+        "score": 0.21193908154964447
+      },
+      {
+        "id": "P840",
+        "text": "narrative location setting location narrative set in location of narrative set in location takes place in playing in",
+        "score": 0.200999915599823
+      }
+    ],
+    "processing_time": 367.5648093223572
+  },
+  "question_5": {
+    "question": "Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. \nAttribute 2 d_icd_procedures-long_title and its description 2 d_icd_procedures defines international classification of diseases version 9 (icd-9) codes for procedures.;long_title provides a brief definition for the given diagnosis code in icd9_code. \nDo attribute 1 and attribute 2 are semantically matched with each other?",
+    "similar_entities": [
+      {
+        "id": "Q6545185",
+        "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code",
+        "score": 0.4419052004814148
+      },
+      {
+        "id": "Q4688981",
+        "text": "affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels",
+        "score": 0.39948591589927673
+      },
+      {
+        "id": "Q58748",
+        "text": "object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping",
+        "score": 0.39491182565689087
+      },
+      {
+        "id": "Q5532884",
+        "text": "Genetic codes (database) genetic codes (database)",
+        "score": 0.39437925815582275
+      },
+      {
+        "id": "Q515701",
+        "text": "linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier",
+        "score": 0.3919160068035126
+      },
+      {
+        "id": "Q2722260",
+        "text": "attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing)",
+        "score": 0.3878861665725708
+      },
+      {
+        "id": "Q28134066",
+        "text": "A9 (classification) a9 (classification)",
+        "score": 0.37815719842910767
+      },
+      {
+        "id": "Q5282129",
+        "text": "disease ontology identifier human disease ontology Human Disease Ontology Disease Ontology Identifier DOID Disease Ontology disease ontology doid Disease ontology",
+        "score": 0.3777469992637634
+      },
+      {
+        "id": "Q28134134",
+        "text": "SS2 (classification) ss2 (classification)",
+        "score": 0.36238783597946167
+      },
+      {
+        "id": "Q5014100",
+        "text": "CSHALS conference on semantics in healthcare and life sciences cshals Conference on Semantics in Healthcare and Life Sciences",
+        "score": 0.3618118166923523
+      }
+    ],
+    "similar_relations": [
+      {
+        "id": "P1913",
+        "text": "gene duplication association with",
+        "score": 0.36379358172416687
+      },
+      {
+        "id": "P1382",
+        "text": "partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with",
+        "score": 0.30486005544662476
+      },
+      {
+        "id": "P1912",
+        "text": "deletion association with",
+        "score": 0.30270177125930786
+      },
+      {
+        "id": "P2293",
+        "text": "genetic association",
+        "score": 0.29219526052474976
+      },
+      {
+        "id": "P1435",
+        "text": "heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status",
+        "score": 0.28619611263275146
+      },
+      {
+        "id": "P1552",
+        "text": "has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by",
+        "score": 0.25878000259399414
+      },
+      {
+        "id": "P1480",
+        "text": "sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation",
+        "score": 0.23281751573085785
+      },
+      {
+        "id": "P3403",
+        "text": "coextensive with same territory as territory identical with coterminous with",
+        "score": 0.21994853019714355
+      },
+      {
+        "id": "P1039",
+        "text": "type of kinship kinship relationship (kinship) type of relationship",
+        "score": 0.2109692394733429
+      },
+      {
+        "id": "P840",
+        "text": "narrative location setting location narrative set in location of narrative set in location takes place in playing in",
+        "score": 0.20374251902103424
+      }
+    ],
+    "processing_time": 364.234525680542
+  },
+  "question_6": {
+    "question": "Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. \nAttribute 2 d_icd_procedures-mimic_id and its description 2 d_icd_procedures defines international classification of diseases version 9 (icd-9) codes for procedures.;a unique id for all mimic tables. \nDo attribute 1 and attribute 2 are semantically matched with each other?",
+    "similar_entities": [
+      {
+        "id": "Q6545185",
+        "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code",
+        "score": 0.4986664652824402
+      },
+      {
+        "id": "Q5532884",
+        "text": "Genetic codes (database) genetic codes (database)",
+        "score": 0.41605961322784424
+      },
+      {
+        "id": "Q25670",
+        "text": "DOI prefix Dx.doi.org Digital Object Identifier Doi.org digital object identifier DOI System Digital Object Identifiers digital object identifiers international doi foundation International DOI Foundation ISO 26324 Digital object identifier doi suffix iso 26324 dx.doi.org DOI system doi prefix DOI code Doi system doi system DOI suffix Digital object identifiers doi.org doi code",
+        "score": 0.410797655582428
+      },
+      {
+        "id": "Q18045748",
+        "text": "gid2b GID2B CAD28476 cad28476 RMND5B (gene) rmnd5b (gene) GID2",
+        "score": 0.39276278018951416
+      },
+      {
+        "id": "Q515701",
+        "text": "linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier",
+        "score": 0.3912457525730133
+      },
+      {
+        "id": "Q4688981",
+        "text": "affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels",
+        "score": 0.3870295286178589
+      },
+      {
+        "id": "Q28134066",
+        "text": "A9 (classification) a9 (classification)",
+        "score": 0.38463371992111206
+      },
+      {
+        "id": "Q58748",
+        "text": "object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping",
+        "score": 0.3826967179775238
+      },
+      {
+        "id": "Q19600839",
+        "text": "constituency pk-20 (charsadda-iv) Constituency PK-20 (Charsadda-IV)",
+        "score": 0.36747944355010986
+      },
+      {
+        "id": "Q2976531",
+        "text": "Classification Commune des Actes Médicaux Classification des Actes Medicaux classification des actes medicaux classification des actes médicaux Classification des Actes Médicaux classification commune des actes medicaux classification commune des actes médicaux Classification Commune des Actes Medicaux",
+        "score": 0.365619957447052
+      }
+    ],
+    "similar_relations": [
+      {
+        "id": "P1913",
+        "text": "gene duplication association with",
+        "score": 0.3969361186027527
+      },
+      {
+        "id": "P1382",
+        "text": "partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with",
+        "score": 0.30995887517929077
+      },
+      {
+        "id": "P2293",
+        "text": "genetic association",
+        "score": 0.2994839549064636
+      },
+      {
+        "id": "P1912",
+        "text": "deletion association with",
+        "score": 0.2957767844200134
+      },
+      {
+        "id": "P1435",
+        "text": "heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status",
+        "score": 0.26911619305610657
+      },
+      {
+        "id": "P3403",
+        "text": "coextensive with same territory as territory identical with coterminous with",
+        "score": 0.26111215353012085
+      },
+      {
+        "id": "P1552",
+        "text": "has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by",
+        "score": 0.24236534535884857
+      },
+      {
+        "id": "P1480",
+        "text": "sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation",
+        "score": 0.21767675876617432
+      },
+      {
+        "id": "P1001",
+        "text": "applies to jurisdiction of jurisdiction linked to jurisdiction belongs to jurisdiction jurisdiction country of jurisdiction valid in jurisdiction applies to territorial jurisdiction applied to jurisdiction",
+        "score": 0.21450304985046387
+      },
+      {
+        "id": "P1039",
+        "text": "type of kinship kinship relationship (kinship) type of relationship",
+        "score": 0.20876391232013702
+      }
+    ],
+    "processing_time": 359.3155839443207
+  },
+  "question_7": {
+    "question": "Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. \nAttribute 2 d_icd_procedures-icd9_code and its description 2 d_icd_procedures defines international classification of diseases version 9 (icd-9) codes for procedures.;this is a fixed length character field, as whitespaces are important in uniquely identifying icd-9 codes. \nDo attribute 1 and attribute 2 are semantically matched with each other?",
+    "similar_entities": [
+      {
+        "id": "Q6545185",
+        "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code",
+        "score": 0.4378666281700134
+      },
+      {
+        "id": "Q28134066",
+        "text": "A9 (classification) a9 (classification)",
+        "score": 0.4112192690372467
+      },
+      {
+        "id": "Q5532884",
+        "text": "Genetic codes (database) genetic codes (database)",
+        "score": 0.4092050790786743
+      },
+      {
+        "id": "Q18045748",
+        "text": "gid2b GID2B CAD28476 cad28476 RMND5B (gene) rmnd5b (gene) GID2",
+        "score": 0.39296334981918335
+      },
+      {
+        "id": "Q18050826",
+        "text": "aag13 S100A16 (gene) AAG13 s100a16 S100A16 s100a16 (gene)",
+        "score": 0.37720638513565063
+      },
+      {
+        "id": "Q2722260",
+        "text": "attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing)",
+        "score": 0.37600165605545044
+      },
+      {
+        "id": "Q18037664",
+        "text": "cldn15 (gene) CLDN15 CLDN15 (gene)",
+        "score": 0.3730798661708832
+      },
+      {
+        "id": "Q18048128",
+        "text": "ODC1 SLC25A21 (gene) odc1 slc25a21 (gene)",
+        "score": 0.3689035177230835
+      },
+      {
+        "id": "Q4688981",
+        "text": "affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels",
+        "score": 0.36880049109458923
+      },
+      {
+        "id": "Q18036241",
+        "text": "slc2a6 (gene) SLC2A6 SLC2A6 (gene) HSA011372 hsa011372",
+        "score": 0.3684397339820862
+      }
+    ],
+    "similar_relations": [
+      {
+        "id": "P1913",
+        "text": "gene duplication association with",
+        "score": 0.3590490221977234
+      },
+      {
+        "id": "P1435",
+        "text": "heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status",
+        "score": 0.28779712319374084
+      },
+      {
+        "id": "P2293",
+        "text": "genetic association",
+        "score": 0.2827533483505249
+      },
+      {
+        "id": "P1382",
+        "text": "partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with",
+        "score": 0.28248295187950134
+      },
+      {
+        "id": "P1912",
+        "text": "deletion association with",
+        "score": 0.27150973677635193
+      },
+      {
+        "id": "P1552",
+        "text": "has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by",
+        "score": 0.22816042602062225
+      },
+      {
+        "id": "P3403",
+        "text": "coextensive with same territory as territory identical with coterminous with",
+        "score": 0.2195286899805069
+      },
+      {
+        "id": "P840",
+        "text": "narrative location setting location narrative set in location of narrative set in location takes place in playing in",
+        "score": 0.20344102382659912
+      },
+      {
+        "id": "P1480",
+        "text": "sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation",
+        "score": 0.20030122995376587
+      },
+      {
+        "id": "P1039",
+        "text": "type of kinship kinship relationship (kinship) type of relationship",
+        "score": 0.1964588761329651
+      }
+    ],
+    "processing_time": 364.9085602760315
+  },
+  "question_8": {
+    "question": "Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. \nAttribute 2 d_items-itemid and its description 2 d_items defines table for all items in the icu databases.;itemid is a identifier for a single measurement type in the database. \nDo attribute 1 and attribute 2 are semantically matched with each other?",
+    "similar_entities": [
+      {
+        "id": "Q6545185",
+        "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code",
+        "score": 0.43089085817337036
+      },
+      {
+        "id": "Q515701",
+        "text": "linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier",
+        "score": 0.4133378267288208
+      },
+      {
+        "id": "Q58748",
+        "text": "object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping",
+        "score": 0.4090961515903473
+      },
+      {
+        "id": "Q4688981",
+        "text": "affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels",
+        "score": 0.3772714138031006
+      },
+      {
+        "id": "Q2374515",
+        "text": "Affiliate (commerce) Affiliate entity affiliate (commerce) affiliate entity",
+        "score": 0.36874428391456604
+      },
+      {
+        "id": "Q2722260",
+        "text": "attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing)",
+        "score": 0.3655030131340027
+      },
+      {
+        "id": "Q15948746",
+        "text": "Associative case associative case",
+        "score": 0.34667420387268066
+      },
+      {
+        "id": "Q7621128",
+        "text": "strained relations Strained Relations",
+        "score": 0.3414950370788574
+      },
+      {
+        "id": "Q80585",
+        "text": "Hash array symbol table Associative arrays associative map Assoc list key vlaue dictionary (data structure) dictionary key-value association Associative map hash array map (computer science) associative arrays hasharray Map (data structure) Key-value association Key–value data Associative array associative container Dictionary (data structure) assoc list Key-value data Map (computer science) Hasharray key-value data Associative container key–value data map (data structure)",
+        "score": 0.3413524627685547
+      },
+      {
+        "id": "Q5532884",
+        "text": "Genetic codes (database) genetic codes (database)",
+        "score": 0.34030112624168396
+      }
+    ],
+    "similar_relations": [
+      {
+        "id": "P1913",
+        "text": "gene duplication association with",
+        "score": 0.3349164128303528
+      },
+      {
+        "id": "P1912",
+        "text": "deletion association with",
+        "score": 0.3112456202507019
+      },
+      {
+        "id": "P1382",
+        "text": "partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with",
+        "score": 0.3073374629020691
+      },
+      {
+        "id": "P2293",
+        "text": "genetic association",
+        "score": 0.2831926941871643
+      },
+      {
+        "id": "P1552",
+        "text": "has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by",
+        "score": 0.2660079002380371
+      },
+      {
+        "id": "P840",
+        "text": "narrative location setting location narrative set in location of narrative set in location takes place in playing in",
+        "score": 0.23237809538841248
+      },
+      {
+        "id": "P121",
+        "text": "item operated fleet aircraft in fleet aircraft operated equipment operated facility operated service operated operator of operated operates eq acop aircraft carried item used uses item runs controls",
+        "score": 0.21892577409744263
+      },
+      {
+        "id": "P1480",
+        "text": "sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation",
+        "score": 0.21854457259178162
+      },
+      {
+        "id": "P1039",
+        "text": "type of kinship kinship relationship (kinship) type of relationship",
+        "score": 0.21459057927131653
+      },
+      {
+        "id": "P937",
+        "text": "work location workplace work location place of activity active in location of work place of work working at",
+        "score": 0.21238769590854645
+      }
+    ],
+    "processing_time": 362.76448225975037
+  },
+  "question_9": {
+    "question": "Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. \nAttribute 2 d_items-label and its description 2 d_items defines table for all items in the icu databases.;label describes the concept which is represented by the itemid. \nDo attribute 1 and attribute 2 are semantically matched with each other?",
+    "similar_entities": [
+      {
+        "id": "Q6545185",
+        "text": "identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code",
+        "score": 0.4303708076477051
+      },
+      {
+        "id": "Q4688981",
+        "text": "affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels",
+        "score": 0.4163607358932495
+      },
+      {
+        "id": "Q515701",
+        "text": "linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier",
+        "score": 0.4114758372306824
+      },
+      {
+        "id": "Q58748",
+        "text": "object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping",
+        "score": 0.3814575970172882
+      },
+      {
+        "id": "Q2722260",
+        "text": "attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing)",
+        "score": 0.3745375871658325
+      },
+      {
+        "id": "Q2374515",
+        "text": "Affiliate (commerce) Affiliate entity affiliate (commerce) affiliate entity",
+        "score": 0.3684037923812866
+      },
+      {
+        "id": "Q15948746",
+        "text": "Associative case associative case",
+        "score": 0.35977083444595337
+      },
+      {
+        "id": "Q5014100",
+        "text": "CSHALS conference on semantics in healthcare and life sciences cshals Conference on Semantics in Healthcare and Life Sciences",
+        "score": 0.3530341684818268
+      },
+      {
+        "id": "Q5380552",
+        "text": "entity (netlabel) Entity (netlabel)",
+        "score": 0.345390260219574
+      },
+      {
+        "id": "Q80585",
+        "text": "Hash array symbol table Associative arrays associative map Assoc list key vlaue dictionary (data structure) dictionary key-value association Associative map hash array map (computer science) associative arrays hasharray Map (data structure) Key-value association Key–value data Associative array associative container Dictionary (data structure) assoc list Key-value data Map (computer science) Hasharray key-value data Associative container key–value data map (data structure)",
+        "score": 0.34117087721824646
+      }
+    ],
+    "similar_relations": [
+      {
+        "id": "P1913",
+        "text": "gene duplication association with",
+        "score": 0.33836883306503296
+      },
+      {
+        "id": "P1912",
+        "text": "deletion association with",
+        "score": 0.3158305585384369
+      },
+      {
+        "id": "P1382",
+        "text": "partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with",
+        "score": 0.2991674840450287
+      },
+      {
+        "id": "P2293",
+        "text": "genetic association",
+        "score": 0.2585921287536621
+      },
+      {
+        "id": "P1552",
+        "text": "has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by",
+        "score": 0.2557229995727539
+      },
+      {
+        "id": "P121",
+        "text": "item operated fleet aircraft in fleet aircraft operated equipment operated facility operated service operated operator of operated operates eq acop aircraft carried item used uses item runs controls",
+        "score": 0.23949767649173737
+      },
+      {
+        "id": "P840",
+        "text": "narrative location setting location narrative set in location of narrative set in location takes place in playing in",
+        "score": 0.23299568891525269
+      },
+      {
+        "id": "P3403",
+        "text": "coextensive with same territory as territory identical with coterminous with",
+        "score": 0.21602687239646912
+      },
+      {
+        "id": "P355",
+        "text": "subsidiary subsidiary company subsidiary entities parent company of has subsidiary owns",
+        "score": 0.21255314350128174
+      },
+      {
+        "id": "P1640",
+        "text": "curator has curator keeper curation authority biocurator digital curator curated by",
+        "score": 0.2103862315416336
+      }
+    ],
+    "processing_time": 362.65803718566895
+  }
+}

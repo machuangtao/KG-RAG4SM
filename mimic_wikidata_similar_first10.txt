@@ -1,0 +1,330 @@
+Question ID: question_0
+Question: Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. 
+Attribute 2 d_icd_diagnoses-icd9_code and its description 2 d_icd_diagnoses defines international classification of diseases version 9 (icd-9) codes for diagnoses.;icd9 code - note that this is a fixed length character field, as whitespaces are important in uniquely identifying icd-9 codes. 
+Do attribute 1 and attribute 2 are semantically matched with each other?
+
+Similar Entities:
+- Q6545185: identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code (Score: 0.4168)
+- Q5532884: Genetic codes (database) genetic codes (database) (Score: 0.3879)
+- Q28134066: A9 (classification) a9 (classification) (Score: 0.3818)
+- Q2722260: attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing) (Score: 0.3738)
+- Q4688981: affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels (Score: 0.3666)
+- Q18045748: gid2b GID2B CAD28476 cad28476 RMND5B (gene) rmnd5b (gene) GID2 (Score: 0.3648)
+- Q515701: linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier (Score: 0.3509)
+- Q18037664: cldn15 (gene) CLDN15 CLDN15 (gene) (Score: 0.3489)
+- Q25670: DOI prefix Dx.doi.org Digital Object Identifier Doi.org digital object identifier DOI System Digital Object Identifiers digital object identifiers international doi foundation International DOI Foundation ISO 26324 Digital object identifier doi suffix iso 26324 dx.doi.org DOI system doi prefix DOI code Doi system doi system DOI suffix Digital object identifiers doi.org doi code (Score: 0.3488)
+- Q18048128: ODC1 SLC25A21 (gene) odc1 slc25a21 (gene) (Score: 0.3393)
+
+Similar Relations:
+- P1913: gene duplication association with (Score: 0.3425)
+- P2293: genetic association (Score: 0.2723)
+- P1435: heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status (Score: 0.2714)
+- P1382: partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with (Score: 0.2650)
+- P1912: deletion association with (Score: 0.2641)
+- P1552: has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by (Score: 0.2297)
+- P3403: coextensive with same territory as territory identical with coterminous with (Score: 0.2045)
+- P840: narrative location setting location narrative set in location of narrative set in location takes place in playing in (Score: 0.1930)
+- P1001: applies to jurisdiction of jurisdiction linked to jurisdiction belongs to jurisdiction jurisdiction country of jurisdiction valid in jurisdiction applies to territorial jurisdiction applied to jurisdiction (Score: 0.1895)
+- P1480: sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation (Score: 0.1851)
+
+Processing time for this question: 367.4686 seconds
+
+================================================================================
+
+Question ID: question_1
+Question: Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. 
+Attribute 2 d_icd_diagnoses-short_title and its description 2 d_icd_diagnoses defines international classification of diseases version 9 (icd-9) codes for diagnoses.;short_title provides a brief definition for the given diagnosis code in icd9_code. 
+Do attribute 1 and attribute 2 are semantically matched with each other?
+
+Similar Entities:
+- Q6545185: identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code (Score: 0.4283)
+- Q4688981: affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels (Score: 0.4054)
+- Q515701: linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier (Score: 0.3941)
+- Q58748: object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping (Score: 0.3891)
+- Q5532884: Genetic codes (database) genetic codes (database) (Score: 0.3881)
+- Q2722260: attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing) (Score: 0.3821)
+- Q5282129: disease ontology identifier human disease ontology Human Disease Ontology Disease Ontology Identifier DOID Disease Ontology disease ontology doid Disease ontology (Score: 0.3615)
+- Q28134066: A9 (classification) a9 (classification) (Score: 0.3597)
+- Q28134134: SS2 (classification) ss2 (classification) (Score: 0.3513)
+- Q18045748: gid2b GID2B CAD28476 cad28476 RMND5B (gene) rmnd5b (gene) GID2 (Score: 0.3510)
+
+Similar Relations:
+- P1913: gene duplication association with (Score: 0.3580)
+- P1382: partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with (Score: 0.3047)
+- P1912: deletion association with (Score: 0.3009)
+- P2293: genetic association (Score: 0.2841)
+- P1435: heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status (Score: 0.2746)
+- P1552: has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by (Score: 0.2590)
+- P3403: coextensive with same territory as territory identical with coterminous with (Score: 0.2313)
+- P1480: sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation (Score: 0.2228)
+- P840: narrative location setting location narrative set in location of narrative set in location takes place in playing in (Score: 0.2107)
+- P1039: type of kinship kinship relationship (kinship) type of relationship (Score: 0.2069)
+
+Processing time for this question: 358.0261 seconds
+
+================================================================================
+
+Question ID: question_2
+Question: Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. 
+Attribute 2 d_icd_diagnoses-long_title and its description 2 d_icd_diagnoses defines international classification of diseases version 9 (icd-9) codes for diagnoses.;long_title provides a brief definition for the given diagnosis code in icd9_code. 
+Do attribute 1 and attribute 2 are semantically matched with each other?
+
+Similar Entities:
+- Q6545185: identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code (Score: 0.4326)
+- Q515701: linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier (Score: 0.3981)
+- Q4688981: affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels (Score: 0.3961)
+- Q58748: object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping (Score: 0.3913)
+- Q5532884: Genetic codes (database) genetic codes (database) (Score: 0.3852)
+- Q2722260: attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing) (Score: 0.3794)
+- Q5282129: disease ontology identifier human disease ontology Human Disease Ontology Disease Ontology Identifier DOID Disease Ontology disease ontology doid Disease ontology (Score: 0.3656)
+- Q28134066: A9 (classification) a9 (classification) (Score: 0.3506)
+- Q5014100: CSHALS conference on semantics in healthcare and life sciences cshals Conference on Semantics in Healthcare and Life Sciences (Score: 0.3471)
+- Q28134134: SS2 (classification) ss2 (classification) (Score: 0.3447)
+
+Similar Relations:
+- P1913: gene duplication association with (Score: 0.3573)
+- P1382: partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with (Score: 0.2994)
+- P1912: deletion association with (Score: 0.2977)
+- P2293: genetic association (Score: 0.2851)
+- P1435: heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status (Score: 0.2747)
+- P1552: has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by (Score: 0.2575)
+- P3403: coextensive with same territory as territory identical with coterminous with (Score: 0.2267)
+- P1480: sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation (Score: 0.2216)
+- P840: narrative location setting location narrative set in location of narrative set in location takes place in playing in (Score: 0.2126)
+- P1001: applies to jurisdiction of jurisdiction linked to jurisdiction belongs to jurisdiction jurisdiction country of jurisdiction valid in jurisdiction applies to territorial jurisdiction applied to jurisdiction (Score: 0.2047)
+
+Processing time for this question: 364.2478 seconds
+
+================================================================================
+
+Question ID: question_3
+Question: Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. 
+Attribute 2 d_icd_diagnoses-mimic_id and its description 2 d_icd_diagnoses defines international classification of diseases version 9 (icd-9) codes for diagnoses.;a unique id for all mimic tables. 
+Do attribute 1 and attribute 2 are semantically matched with each other?
+
+Similar Entities:
+- Q6545185: identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code (Score: 0.4793)
+- Q5532884: Genetic codes (database) genetic codes (database) (Score: 0.4106)
+- Q58748: object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping (Score: 0.4075)
+- Q4688981: affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels (Score: 0.4011)
+- Q515701: linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier (Score: 0.4008)
+- Q18045748: gid2b GID2B CAD28476 cad28476 RMND5B (gene) rmnd5b (gene) GID2 (Score: 0.3852)
+- Q2722260: attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing) (Score: 0.3711)
+- Q28134066: A9 (classification) a9 (classification) (Score: 0.3706)
+- Q28134134: SS2 (classification) ss2 (classification) (Score: 0.3683)
+- Q5282129: disease ontology identifier human disease ontology Human Disease Ontology Disease Ontology Identifier DOID Disease Ontology disease ontology doid Disease ontology (Score: 0.3670)
+
+Similar Relations:
+- P1913: gene duplication association with (Score: 0.3978)
+- P2293: genetic association (Score: 0.3089)
+- P1912: deletion association with (Score: 0.3084)
+- P1382: partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with (Score: 0.3044)
+- P1435: heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status (Score: 0.2715)
+- P3403: coextensive with same territory as territory identical with coterminous with (Score: 0.2651)
+- P1552: has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by (Score: 0.2490)
+- P1480: sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation (Score: 0.2311)
+- P840: narrative location setting location narrative set in location of narrative set in location takes place in playing in (Score: 0.2210)
+- P1039: type of kinship kinship relationship (kinship) type of relationship (Score: 0.2193)
+
+Processing time for this question: 360.9945 seconds
+
+================================================================================
+
+Question ID: question_4
+Question: Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. 
+Attribute 2 d_icd_procedures-short_title and its description 2 d_icd_procedures defines international classification of diseases version 9 (icd-9) codes for procedures.;short_title provides a brief definition for the given diagnosis code in icd9_code. 
+Do attribute 1 and attribute 2 are semantically matched with each other?
+
+Similar Entities:
+- Q6545185: identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code (Score: 0.4342)
+- Q4688981: affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels (Score: 0.4113)
+- Q5532884: Genetic codes (database) genetic codes (database) (Score: 0.3965)
+- Q58748: object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping (Score: 0.3890)
+- Q2722260: attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing) (Score: 0.3889)
+- Q28134066: A9 (classification) a9 (classification) (Score: 0.3889)
+- Q515701: linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier (Score: 0.3862)
+- Q5282129: disease ontology identifier human disease ontology Human Disease Ontology Disease Ontology Identifier DOID Disease Ontology disease ontology doid Disease ontology (Score: 0.3699)
+- Q28134134: SS2 (classification) ss2 (classification) (Score: 0.3692)
+- Q28134064: A6 (classification) a6 (classification) (Score: 0.3642)
+
+Similar Relations:
+- P1913: gene duplication association with (Score: 0.3642)
+- P1382: partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with (Score: 0.3141)
+- P1912: deletion association with (Score: 0.3044)
+- P2293: genetic association (Score: 0.2902)
+- P1435: heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status (Score: 0.2850)
+- P1552: has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by (Score: 0.2610)
+- P1480: sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation (Score: 0.2314)
+- P3403: coextensive with same territory as territory identical with coterminous with (Score: 0.2282)
+- P1039: type of kinship kinship relationship (kinship) type of relationship (Score: 0.2119)
+- P840: narrative location setting location narrative set in location of narrative set in location takes place in playing in (Score: 0.2010)
+
+Processing time for this question: 367.5648 seconds
+
+================================================================================
+
+Question ID: question_5
+Question: Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. 
+Attribute 2 d_icd_procedures-long_title and its description 2 d_icd_procedures defines international classification of diseases version 9 (icd-9) codes for procedures.;long_title provides a brief definition for the given diagnosis code in icd9_code. 
+Do attribute 1 and attribute 2 are semantically matched with each other?
+
+Similar Entities:
+- Q6545185: identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code (Score: 0.4419)
+- Q4688981: affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels (Score: 0.3995)
+- Q58748: object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping (Score: 0.3949)
+- Q5532884: Genetic codes (database) genetic codes (database) (Score: 0.3944)
+- Q515701: linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier (Score: 0.3919)
+- Q2722260: attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing) (Score: 0.3879)
+- Q28134066: A9 (classification) a9 (classification) (Score: 0.3782)
+- Q5282129: disease ontology identifier human disease ontology Human Disease Ontology Disease Ontology Identifier DOID Disease Ontology disease ontology doid Disease ontology (Score: 0.3777)
+- Q28134134: SS2 (classification) ss2 (classification) (Score: 0.3624)
+- Q5014100: CSHALS conference on semantics in healthcare and life sciences cshals Conference on Semantics in Healthcare and Life Sciences (Score: 0.3618)
+
+Similar Relations:
+- P1913: gene duplication association with (Score: 0.3638)
+- P1382: partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with (Score: 0.3049)
+- P1912: deletion association with (Score: 0.3027)
+- P2293: genetic association (Score: 0.2922)
+- P1435: heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status (Score: 0.2862)
+- P1552: has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by (Score: 0.2588)
+- P1480: sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation (Score: 0.2328)
+- P3403: coextensive with same territory as territory identical with coterminous with (Score: 0.2199)
+- P1039: type of kinship kinship relationship (kinship) type of relationship (Score: 0.2110)
+- P840: narrative location setting location narrative set in location of narrative set in location takes place in playing in (Score: 0.2037)
+
+Processing time for this question: 364.2345 seconds
+
+================================================================================
+
+Question ID: question_6
+Question: Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. 
+Attribute 2 d_icd_procedures-mimic_id and its description 2 d_icd_procedures defines international classification of diseases version 9 (icd-9) codes for procedures.;a unique id for all mimic tables. 
+Do attribute 1 and attribute 2 are semantically matched with each other?
+
+Similar Entities:
+- Q6545185: identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code (Score: 0.4987)
+- Q5532884: Genetic codes (database) genetic codes (database) (Score: 0.4161)
+- Q25670: DOI prefix Dx.doi.org Digital Object Identifier Doi.org digital object identifier DOI System Digital Object Identifiers digital object identifiers international doi foundation International DOI Foundation ISO 26324 Digital object identifier doi suffix iso 26324 dx.doi.org DOI system doi prefix DOI code Doi system doi system DOI suffix Digital object identifiers doi.org doi code (Score: 0.4108)
+- Q18045748: gid2b GID2B CAD28476 cad28476 RMND5B (gene) rmnd5b (gene) GID2 (Score: 0.3928)
+- Q515701: linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier (Score: 0.3912)
+- Q4688981: affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels (Score: 0.3870)
+- Q28134066: A9 (classification) a9 (classification) (Score: 0.3846)
+- Q58748: object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping (Score: 0.3827)
+- Q19600839: constituency pk-20 (charsadda-iv) Constituency PK-20 (Charsadda-IV) (Score: 0.3675)
+- Q2976531: Classification Commune des Actes Médicaux Classification des Actes Medicaux classification des actes medicaux classification des actes médicaux Classification des Actes Médicaux classification commune des actes medicaux classification commune des actes médicaux Classification Commune des Actes Medicaux (Score: 0.3656)
+
+Similar Relations:
+- P1913: gene duplication association with (Score: 0.3969)
+- P1382: partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with (Score: 0.3100)
+- P2293: genetic association (Score: 0.2995)
+- P1912: deletion association with (Score: 0.2958)
+- P1435: heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status (Score: 0.2691)
+- P3403: coextensive with same territory as territory identical with coterminous with (Score: 0.2611)
+- P1552: has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by (Score: 0.2424)
+- P1480: sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation (Score: 0.2177)
+- P1001: applies to jurisdiction of jurisdiction linked to jurisdiction belongs to jurisdiction jurisdiction country of jurisdiction valid in jurisdiction applies to territorial jurisdiction applied to jurisdiction (Score: 0.2145)
+- P1039: type of kinship kinship relationship (kinship) type of relationship (Score: 0.2088)
+
+Processing time for this question: 359.3156 seconds
+
+================================================================================
+
+Question ID: question_7
+Question: Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. 
+Attribute 2 d_icd_procedures-icd9_code and its description 2 d_icd_procedures defines international classification of diseases version 9 (icd-9) codes for procedures.;this is a fixed length character field, as whitespaces are important in uniquely identifying icd-9 codes. 
+Do attribute 1 and attribute 2 are semantically matched with each other?
+
+Similar Entities:
+- Q6545185: identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code (Score: 0.4379)
+- Q28134066: A9 (classification) a9 (classification) (Score: 0.4112)
+- Q5532884: Genetic codes (database) genetic codes (database) (Score: 0.4092)
+- Q18045748: gid2b GID2B CAD28476 cad28476 RMND5B (gene) rmnd5b (gene) GID2 (Score: 0.3930)
+- Q18050826: aag13 S100A16 (gene) AAG13 s100a16 S100A16 s100a16 (gene) (Score: 0.3772)
+- Q2722260: attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing) (Score: 0.3760)
+- Q18037664: cldn15 (gene) CLDN15 CLDN15 (gene) (Score: 0.3731)
+- Q18048128: ODC1 SLC25A21 (gene) odc1 slc25a21 (gene) (Score: 0.3689)
+- Q4688981: affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels (Score: 0.3688)
+- Q18036241: slc2a6 (gene) SLC2A6 SLC2A6 (gene) HSA011372 hsa011372 (Score: 0.3684)
+
+Similar Relations:
+- P1913: gene duplication association with (Score: 0.3590)
+- P1435: heritage designation designation listing listed status protected status protection legal protection heritage designation heritage status (Score: 0.2878)
+- P2293: genetic association (Score: 0.2828)
+- P1382: partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with (Score: 0.2825)
+- P1912: deletion association with (Score: 0.2715)
+- P1552: has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by (Score: 0.2282)
+- P3403: coextensive with same territory as territory identical with coterminous with (Score: 0.2195)
+- P840: narrative location setting location narrative set in location of narrative set in location takes place in playing in (Score: 0.2034)
+- P1480: sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation (Score: 0.2003)
+- P1039: type of kinship kinship relationship (kinship) type of relationship (Score: 0.1965)
+
+Processing time for this question: 364.9086 seconds
+
+================================================================================
+
+Question ID: question_8
+Question: Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. 
+Attribute 2 d_items-itemid and its description 2 d_items defines table for all items in the icu databases.;itemid is a identifier for a single measurement type in the database. 
+Do attribute 1 and attribute 2 are semantically matched with each other?
+
+Similar Entities:
+- Q6545185: identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code (Score: 0.4309)
+- Q515701: linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier (Score: 0.4133)
+- Q58748: object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping (Score: 0.4091)
+- Q4688981: affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels (Score: 0.3773)
+- Q2374515: Affiliate (commerce) Affiliate entity affiliate (commerce) affiliate entity (Score: 0.3687)
+- Q2722260: attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing) (Score: 0.3655)
+- Q15948746: Associative case associative case (Score: 0.3467)
+- Q7621128: strained relations Strained Relations (Score: 0.3415)
+- Q80585: Hash array symbol table Associative arrays associative map Assoc list key vlaue dictionary (data structure) dictionary key-value association Associative map hash array map (computer science) associative arrays hasharray Map (data structure) Key-value association Key–value data Associative array associative container Dictionary (data structure) assoc list Key-value data Map (computer science) Hasharray key-value data Associative container key–value data map (data structure) (Score: 0.3414)
+- Q5532884: Genetic codes (database) genetic codes (database) (Score: 0.3403)
+
+Similar Relations:
+- P1913: gene duplication association with (Score: 0.3349)
+- P1912: deletion association with (Score: 0.3112)
+- P1382: partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with (Score: 0.3073)
+- P2293: genetic association (Score: 0.2832)
+- P1552: has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by (Score: 0.2660)
+- P840: narrative location setting location narrative set in location of narrative set in location takes place in playing in (Score: 0.2324)
+- P121: item operated fleet aircraft in fleet aircraft operated equipment operated facility operated service operated operator of operated operates eq acop aircraft carried item used uses item runs controls (Score: 0.2189)
+- P1480: sourcing circumstances accuracy reliability confidence precision certainty validity qualitative valuation (Score: 0.2185)
+- P1039: type of kinship kinship relationship (kinship) type of relationship (Score: 0.2146)
+- P937: work location workplace work location place of activity active in location of work place of work working at (Score: 0.2124)
+
+Processing time for this question: 362.7645 seconds
+
+================================================================================
+
+Question ID: question_9
+Question: Attribute 1 care_site-location_id and its description 1 the care_site table contains a list of uniquely identified institutional (physical or organizational) units where healthcare delivery is practiced (offices, wards, hospitals, clinics, etc.).;a foreign key to the geographic location in the location table, where the detailed address information is stored. 
+Attribute 2 d_items-label and its description 2 d_items defines table for all items in the icu databases.;label describes the concept which is represented by the itemid. 
+Do attribute 1 and attribute 2 are semantically matched with each other?
+
+Similar Entities:
+- Q6545185: identifier unique identifiers UID Unique identifier Unique identifying code identifier system Unique Object Identifier unique object identifier unique identifier(uid) Unique identifiers identification number Unique Identifier(UID) unique identifying code (Score: 0.4304)
+- Q4688981: affinity label Affinity label Affinity labeling affinity labeling affinity labels Affinity labels (Score: 0.4164)
+- Q515701: linked data dereferenceable uniform resource identifiers Linked open data linking open data Linking Open Data dereferencable uris Linked Data Project dereferenceable unified resource identifier dereferencable uniform resource identifiers LinkedData Linked structured data Linked Data Linked Open Data linkeddata Dereferencable Uniform Resource Identifier linked open data Dereferenceable Unified Resource Identifier dereferenceable uniform resource identifier Dereferenceable URIs linked data project Dereferenceable Uniform Resource Identifiers Dereferencable URIs LOD Dereferencable Uniform Resource Identifiers dereferencable uniform resource identifier Dereferencable URI dereferenceable uris Linked data dereferencable uri linked structured data Dereferenceable URI Dereferenceable Uniform Resource Identifier (Score: 0.4115)
+- Q58748: object relational mapper object-relational mapping Object-relational mapper Object relational mapping object-sql mapping Object-Relational Mapping Object-relationship modelling O/RM post-relational database Post-relational database object relational mapping Object-SQL mapping Object relational mapper O-RM O/R mapping Object-Relationship Modelling O/R mapper object/relational mapping object-relationship modelling o/rm o/r mapper o-rm Object Relational Mapping Object-Relational mapping object-relational mapper Object/relational mapping Object-relational mapping o/r mapping (Score: 0.3815)
+- Q2722260: attribute (computing) attribute (computer science) field property Attribute (computer science) Attribute (computing) (Score: 0.3745)
+- Q2374515: Affiliate (commerce) Affiliate entity affiliate (commerce) affiliate entity (Score: 0.3684)
+- Q15948746: Associative case associative case (Score: 0.3598)
+- Q5014100: CSHALS conference on semantics in healthcare and life sciences cshals Conference on Semantics in Healthcare and Life Sciences (Score: 0.3530)
+- Q5380552: entity (netlabel) Entity (netlabel) (Score: 0.3454)
+- Q80585: Hash array symbol table Associative arrays associative map Assoc list key vlaue dictionary (data structure) dictionary key-value association Associative map hash array map (computer science) associative arrays hasharray Map (data structure) Key-value association Key–value data Associative array associative container Dictionary (data structure) assoc list Key-value data Map (computer science) Hasharray key-value data Associative container key–value data map (data structure) (Score: 0.3412)
+
+Similar Relations:
+- P1913: gene duplication association with (Score: 0.3384)
+- P1912: deletion association with (Score: 0.3158)
+- P1382: partially coincident with partially overlaps partial concurrency concurrent with concurrency overlapping with partially include partially in coincident with part of (partially) overlaps overlaps with (Score: 0.2992)
+- P2293: genetic association (Score: 0.2586)
+- P1552: has quality trait inherent property attribute aspect defining feature has feature has characteristic has property characterized by required property quality defining parameter parameter requirement defined by (Score: 0.2557)
+- P121: item operated fleet aircraft in fleet aircraft operated equipment operated facility operated service operated operator of operated operates eq acop aircraft carried item used uses item runs controls (Score: 0.2395)
+- P840: narrative location setting location narrative set in location of narrative set in location takes place in playing in (Score: 0.2330)
+- P3403: coextensive with same territory as territory identical with coterminous with (Score: 0.2160)
+- P355: subsidiary subsidiary company subsidiary entities parent company of has subsidiary owns (Score: 0.2126)
+- P1640: curator has curator keeper curation authority biocurator digital curator curated by (Score: 0.2104)
+
+Processing time for this question: 362.6580 seconds
+
+================================================================================
+

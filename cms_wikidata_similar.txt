@@ -1,0 +1,322 @@
+Total Questions Processed: 10
+
+Question #1
+ID: question_0
+Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-desynpuf_id and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;beneficiary code 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+
+Similar Entities:
+1. oration. address delivered to an audience. (Score: 0.0468)
+2. heart failure. failure of the heart to provide sufficient blood flow. (Score: 0.0432)
+3. interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information. (Score: 0.0431)
+4. major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities. (Score: 0.0411)
+5. drug costs. amount that a health care institution or organization pays for its drugs. (Score: 0.0404)
+6. National Provider Identifier. identification number issued to health care providers in the United States by the Centers for Medicare and Medicaid Services. (Score: 0.0401)
+7. beneficiary. person or other legal entity who receives money or other benefits from a benefactor. (Score: 0.0399)
+8. health care. prevention of disease and promotion of wellbeing of humans and animals. (Score: 0.0395)
+9. chronic obstructive pulmonary disease. lung disease involving long-term poor airflow. (Score: 0.0393)
+10. Diabetes UK. British-based patient, healthcare professional and research charity. (Score: 0.0392)
+
+Similar Relationships:
+1. train melody. music that tells you that a train is leaving or arriving at a train station. (Score: 0.0424)
+2. Academy of Russian Television person ID. identifier of person in Academy of Russian Television. (Score: 0.0411)
+3. Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation. (Score: 0.0391)
+4. Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary. (Score: 0.0389)
+5. State Duma person ID. . (Score: 0.0383)
+6. Arachne.org.au ID. numerical identifier for an arachnid taxon in the Arachne.org.au database. (Score: 0.0375)
+7. Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia. (Score: 0.0369)
+8. Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary. (Score: 0.0368)
+9. Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website. (Score: 0.0365)
+10. Lithuanian Heritage Registry code. number of an entry issued by Lithuanian Heritage Registry. (Score: 0.0362)
+
+================================================================================
+
+Question #2
+ID: question_1
+Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_birth_dt and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;date of birth 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+
+Similar Entities:
+1. oration. address delivered to an audience. (Score: 0.0451)
+2. heart failure. failure of the heart to provide sufficient blood flow. (Score: 0.0429)
+3. interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information. (Score: 0.0415)
+4. major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities. (Score: 0.0408)
+5. beneficiary. person or other legal entity who receives money or other benefits from a benefactor. (Score: 0.0390)
+6. drug costs. amount that a health care institution or organization pays for its drugs. (Score: 0.0383)
+7. health care. prevention of disease and promotion of wellbeing of humans and animals. (Score: 0.0377)
+8. chronic obstructive pulmonary disease. lung disease involving long-term poor airflow. (Score: 0.0368)
+9. National Provider Identifier. identification number issued to health care providers in the United States by the Centers for Medicare and Medicaid Services. (Score: 0.0359)
+10. state. organised community living under a system of government; either a sovereign state, constituent state, or federated state. (Score: 0.0357)
+
+Similar Relationships:
+1. train melody. music that tells you that a train is leaving or arriving at a train station. (Score: 0.0388)
+2. Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation. (Score: 0.0354)
+3. Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary. (Score: 0.0350)
+4. Academy of Russian Television person ID. identifier of person in Academy of Russian Television. (Score: 0.0348)
+5. Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website. (Score: 0.0342)
+6. Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia. (Score: 0.0338)
+7. Atlas Project of Roman Aqueducts ID. identifier of an ancient Roman aqueduct at the Atlas Project of Roman Aqueducts. (Score: 0.0329)
+8. State Duma person ID. . (Score: 0.0328)
+9. applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...). (Score: 0.0325)
+10. Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary. (Score: 0.0321)
+
+================================================================================
+
+Question #3
+ID: question_2
+Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_death_dt and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;date of death 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+
+Similar Entities:
+1. oration. address delivered to an audience. (Score: 0.0499)
+2. heart failure. failure of the heart to provide sufficient blood flow. (Score: 0.0496)
+3. interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information. (Score: 0.0466)
+4. major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities. (Score: 0.0465)
+5. beneficiary. person or other legal entity who receives money or other benefits from a benefactor. (Score: 0.0452)
+6. drug costs. amount that a health care institution or organization pays for its drugs. (Score: 0.0445)
+7. health care. prevention of disease and promotion of wellbeing of humans and animals. (Score: 0.0436)
+8. chronic obstructive pulmonary disease. lung disease involving long-term poor airflow. (Score: 0.0426)
+9. National Provider Identifier. identification number issued to health care providers in the United States by the Centers for Medicare and Medicaid Services. (Score: 0.0422)
+10. state. organised community living under a system of government; either a sovereign state, constituent state, or federated state. (Score: 0.0422)
+
+Similar Relationships:
+1. train melody. music that tells you that a train is leaving or arriving at a train station. (Score: 0.0447)
+2. Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation. (Score: 0.0416)
+3. Academy of Russian Television person ID. identifier of person in Academy of Russian Television. (Score: 0.0415)
+4. Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website. (Score: 0.0400)
+5. Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary. (Score: 0.0398)
+6. applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...). (Score: 0.0392)
+7. Atlas Project of Roman Aqueducts ID. identifier of an ancient Roman aqueduct at the Atlas Project of Roman Aqueducts. (Score: 0.0383)
+8. Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia. (Score: 0.0383)
+9. UAE University Libraries ID. identifier for a person or an organization in the authority file of United Arab Emirates University Libraries through VIAF. (Score: 0.0381)
+10. State Duma person ID. . (Score: 0.0375)
+
+================================================================================
+
+Question #4
+ID: question_3
+Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_sex_ident_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;sex 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+
+Similar Entities:
+1. oration. address delivered to an audience. (Score: 0.0445)
+2. interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information. (Score: 0.0423)
+3. major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities. (Score: 0.0416)
+4. heart failure. failure of the heart to provide sufficient blood flow. (Score: 0.0414)
+5. attending physician. attending physician. (Score: 0.0383)
+6. chronic obstructive pulmonary disease. lung disease involving long-term poor airflow. (Score: 0.0377)
+7. beneficiary. person or other legal entity who receives money or other benefits from a benefactor. (Score: 0.0372)
+8. state. organised community living under a system of government; either a sovereign state, constituent state, or federated state. (Score: 0.0370)
+9. Provider-physician arrangements: an uneasy alliance under fraud, abuse, and inurement.. scientific article published on January 1990. (Score: 0.0367)
+10. disease. abnormal condition negatively affecting organisms. (Score: 0.0360)
+
+Similar Relationships:
+1. train melody. music that tells you that a train is leaving or arriving at a train station. (Score: 0.0385)
+2. Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary. (Score: 0.0369)
+3. Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation. (Score: 0.0360)
+4. Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary. (Score: 0.0350)
+5. Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia. (Score: 0.0346)
+6. Academy of Russian Television person ID. identifier of person in Academy of Russian Television. (Score: 0.0340)
+7. applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...). (Score: 0.0327)
+8. record held. notable record achieved by a person or entity, include qualifiers for dates held. (Score: 0.0327)
+9. Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website. (Score: 0.0325)
+10. DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear. (Score: 0.0322)
+
+================================================================================
+
+Question #5
+ID: question_4
+Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_race_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;beneficiary race code 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+
+Similar Entities:
+1. oration. address delivered to an audience. (Score: 0.0401)
+2. heart failure. failure of the heart to provide sufficient blood flow. (Score: 0.0374)
+3. interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information. (Score: 0.0365)
+4. major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities. (Score: 0.0351)
+5. drug costs. amount that a health care institution or organization pays for its drugs. (Score: 0.0319)
+6. Provider-physician arrangements: an uneasy alliance under fraud, abuse, and inurement.. scientific article published on January 1990. (Score: 0.0315)
+7. attending physician. attending physician. (Score: 0.0314)
+8. health care. prevention of disease and promotion of wellbeing of humans and animals. (Score: 0.0309)
+9. beneficiary. person or other legal entity who receives money or other benefits from a benefactor. (Score: 0.0309)
+10. Diabetes UK. British-based patient, healthcare professional and research charity. (Score: 0.0308)
+
+Similar Relationships:
+1. train melody. music that tells you that a train is leaving or arriving at a train station. (Score: 0.0321)
+2. Academy of Russian Television person ID. identifier of person in Academy of Russian Television. (Score: 0.0307)
+3. Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation. (Score: 0.0306)
+4. Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary. (Score: 0.0296)
+5. Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia. (Score: 0.0291)
+6. State Duma person ID. . (Score: 0.0286)
+7. Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website. (Score: 0.0274)
+8. Museu da Pessoa History. Wikimedia Commons PDF file of a story in the Museu da Pessoa about or by the subject. (Score: 0.0270)
+9. Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary. (Score: 0.0269)
+10. Atlas Project of Roman Aqueducts ID. identifier of an ancient Roman aqueduct at the Atlas Project of Roman Aqueducts. (Score: 0.0267)
+
+================================================================================
+
+Question #6
+ID: question_5
+Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_esrd_ind and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;end stage renal disease indicator 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+
+Similar Entities:
+1. oration. address delivered to an audience. (Score: 0.0505)
+2. major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities. (Score: 0.0493)
+3. heart failure. failure of the heart to provide sufficient blood flow. (Score: 0.0488)
+4. interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information. (Score: 0.0464)
+5. beneficiary. person or other legal entity who receives money or other benefits from a benefactor. (Score: 0.0452)
+6. health care. prevention of disease and promotion of wellbeing of humans and animals. (Score: 0.0441)
+7. chronic obstructive pulmonary disease. lung disease involving long-term poor airflow. (Score: 0.0440)
+8. drug costs. amount that a health care institution or organization pays for its drugs. (Score: 0.0440)
+9. proposition. idea that is true or false and may be expressed in a declarative sentence. (Score: 0.0432)
+10. state. organised community living under a system of government; either a sovereign state, constituent state, or federated state. (Score: 0.0430)
+
+Similar Relationships:
+1. train melody. music that tells you that a train is leaving or arriving at a train station. (Score: 0.0428)
+2. Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary. (Score: 0.0410)
+3. Academy of Russian Television person ID. identifier of person in Academy of Russian Television. (Score: 0.0401)
+4. Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia. (Score: 0.0396)
+5. Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website. (Score: 0.0393)
+6. DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear. (Score: 0.0391)
+7. applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...). (Score: 0.0389)
+8. Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary. (Score: 0.0382)
+9. record held. notable record achieved by a person or entity, include qualifiers for dates held. (Score: 0.0381)
+10. State Duma person ID. . (Score: 0.0380)
+
+================================================================================
+
+Question #7
+ID: question_6
+Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-sp_state_code and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;state code 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+
+Similar Entities:
+1. oration. address delivered to an audience. (Score: 0.0489)
+2. heart failure. failure of the heart to provide sufficient blood flow. (Score: 0.0463)
+3. interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information. (Score: 0.0446)
+4. major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities. (Score: 0.0432)
+5. beneficiary. person or other legal entity who receives money or other benefits from a benefactor. (Score: 0.0430)
+6. Diabetes UK. British-based patient, healthcare professional and research charity. (Score: 0.0423)
+7. drug costs. amount that a health care institution or organization pays for its drugs. (Score: 0.0422)
+8. Provider-physician arrangements: an uneasy alliance under fraud, abuse, and inurement.. scientific article published on January 1990. (Score: 0.0409)
+9. Time. American news magazine and website. (Score: 0.0406)
+10. chronic obstructive pulmonary disease. lung disease involving long-term poor airflow. (Score: 0.0405)
+
+Similar Relationships:
+1. train melody. music that tells you that a train is leaving or arriving at a train station. (Score: 0.0440)
+2. Academy of Russian Television person ID. identifier of person in Academy of Russian Television. (Score: 0.0419)
+3. State Duma person ID. . (Score: 0.0399)
+4. Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary. (Score: 0.0395)
+5. Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia. (Score: 0.0385)
+6. Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website. (Score: 0.0385)
+7. Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation. (Score: 0.0379)
+8. DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear. (Score: 0.0377)
+9. Arachne.org.au ID. numerical identifier for an arachnid taxon in the Arachne.org.au database. (Score: 0.0377)
+10. Osmose Agency person ID. identifier for a person on Osmose Agency website. (Score: 0.0372)
+
+================================================================================
+
+Question #8
+ID: question_7
+Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_county_cd and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;county code 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+
+Similar Entities:
+1. oration. address delivered to an audience. (Score: 0.0507)
+2. interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information. (Score: 0.0480)
+3. heart failure. failure of the heart to provide sufficient blood flow. (Score: 0.0475)
+4. major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities. (Score: 0.0463)
+5. beneficiary. person or other legal entity who receives money or other benefits from a benefactor. (Score: 0.0437)
+6. Provider-physician arrangements: an uneasy alliance under fraud, abuse, and inurement.. scientific article published on January 1990. (Score: 0.0432)
+7. Diabetes UK. British-based patient, healthcare professional and research charity. (Score: 0.0431)
+8. chronic obstructive pulmonary disease. lung disease involving long-term poor airflow. (Score: 0.0429)
+9. drug costs. amount that a health care institution or organization pays for its drugs. (Score: 0.0426)
+10. state. organised community living under a system of government; either a sovereign state, constituent state, or federated state. (Score: 0.0418)
+
+Similar Relationships:
+1. train melody. music that tells you that a train is leaving or arriving at a train station. (Score: 0.0440)
+2. Academy of Russian Television person ID. identifier of person in Academy of Russian Television. (Score: 0.0414)
+3. Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary. (Score: 0.0413)
+4. Austrian Football Association player ID. identifier for an association football player on the Austrian Football Association website. (Score: 0.0396)
+5. Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation. (Score: 0.0393)
+6. Arachne.org.au ID. numerical identifier for an arachnid taxon in the Arachne.org.au database. (Score: 0.0385)
+7. applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...). (Score: 0.0385)
+8. Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia. (Score: 0.0384)
+9. DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear. (Score: 0.0381)
+10. Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary. (Score: 0.0375)
+
+================================================================================
+
+Question #9
+ID: question_8
+Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_hi_cvrage_tot_mons and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;total number of months of part a coverage for the beneficiary. 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+
+Similar Entities:
+1. oration. address delivered to an audience. (Score: 0.0449)
+2. heart failure. failure of the heart to provide sufficient blood flow. (Score: 0.0402)
+3. interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information. (Score: 0.0402)
+4. major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities. (Score: 0.0381)
+5. health care. prevention of disease and promotion of wellbeing of humans and animals. (Score: 0.0368)
+6. drug costs. amount that a health care institution or organization pays for its drugs. (Score: 0.0364)
+7. attending physician. attending physician. (Score: 0.0362)
+8. beneficiary. person or other legal entity who receives money or other benefits from a benefactor. (Score: 0.0359)
+9. Medical History. journal. (Score: 0.0353)
+10. Diabetes UK. British-based patient, healthcare professional and research charity. (Score: 0.0353)
+
+Similar Relationships:
+1. train melody. music that tells you that a train is leaving or arriving at a train station. (Score: 0.0369)
+2. Academy of Russian Television person ID. identifier of person in Academy of Russian Television. (Score: 0.0340)
+3. Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia. (Score: 0.0338)
+4. State Duma person ID. . (Score: 0.0332)
+5. Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation. (Score: 0.0331)
+6. Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary. (Score: 0.0322)
+7. Arachne.org.au ID. numerical identifier for an arachnid taxon in the Arachne.org.au database. (Score: 0.0317)
+8. DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear. (Score: 0.0310)
+9. record held. notable record achieved by a person or entity, include qualifiers for dates held. (Score: 0.0305)
+10. Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary. (Score: 0.0305)
+
+================================================================================
+
+Question #10
+ID: question_9
+Text: Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+ Attribute 2 beneficiarysummary-bene_smi_cvrage_tot_mons and its description 2 beneficiarysummary pertains to a synthetic medicare beneficiary ;total number of months of part b coverage for the beneficiary. 
+ Do attribute 1 and atttribute 2 are semantically matched with each other?
+
+Similar Entities:
+1. oration. address delivered to an audience. (Score: 0.0442)
+2. interrogation. interviewing employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information. (Score: 0.0393)
+3. heart failure. failure of the heart to provide sufficient blood flow. (Score: 0.0393)
+4. major depressive disorder. all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities. (Score: 0.0382)
+5. health care. prevention of disease and promotion of wellbeing of humans and animals. (Score: 0.0364)
+6. attending physician. attending physician. (Score: 0.0359)
+7. Medical History. journal. (Score: 0.0354)
+8. drug costs. amount that a health care institution or organization pays for its drugs. (Score: 0.0354)
+9. datetime. Python library. (Score: 0.0354)
+10. state. organised community living under a system of government; either a sovereign state, constituent state, or federated state. (Score: 0.0351)
+
+Similar Relationships:
+1. train melody. music that tells you that a train is leaving or arriving at a train station. (Score: 0.0356)
+2. Academy of Russian Television person ID. identifier of person in Academy of Russian Television. (Score: 0.0343)
+3. Tabakalera ID. identifier for an authority in the catalogue of Tabakalera, contemporary culture centre in Donostia. (Score: 0.0335)
+4. Federation Council person ID. ID of a member of the Federation Council of the Federal Assembly of the Russian Federation. (Score: 0.0329)
+5. State Duma person ID. . (Score: 0.0327)
+6. Bokmålsordboka-ID. identifier for a single entry in Bokmålsordboka, the official Norwegian Bokmål dictionary. (Score: 0.0320)
+7. DHAC ID. identifier for an art historian in the Diccionari d'historiadors de l'art català, valencià i balear. (Score: 0.0315)
+8. Arachne.org.au ID. numerical identifier for an arachnid taxon in the Arachne.org.au database. (Score: 0.0313)
+9. Nynorskordboka-ID. identifier for a single entry in Nynorskordboka, the official Norwegian Nynorsk dictionary. (Score: 0.0308)
+10. applies to jurisdiction. the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...). (Score: 0.0303)
+
+================================================================================
+

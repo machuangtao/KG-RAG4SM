@@ -1,0 +1,437 @@
+[
+  {
+    "question_index": 0,
+    "results": [
+      {
+        "rank": 1,
+        "id": "triplet2_4380320",
+        "similarity": 0.4975970983505249,
+        "metadata": {
+          "head_id": "Q5013564",
+          "head_entity": "COmputer STored Ambulatory Record",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q7397",
+          "tail_entity": "software",
+          "english_triplet": "<COmputer STored Ambulatory Record, instance of, software>"
+        }
+      },
+      {
+        "rank": 2,
+        "id": "triplet2_4137101",
+        "similarity": 0.48141828179359436,
+        "metadata": {
+          "head_id": "Q5908569",
+          "head_entity": "Hospital Records Database",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q8513",
+          "tail_entity": "database",
+          "english_triplet": "<Hospital Records Database, instance of, database>"
+        }
+      },
+      {
+        "rank": 3,
+        "id": "triplet2_10446947",
+        "similarity": 0.4626765251159668,
+        "metadata": {
+          "head_id": "Q51044",
+          "head_entity": "ORCID iD",
+          "relation_id": "P361",
+          "relation": "part of",
+          "tail_id": "Q423048",
+          "tail_entity": "International Standard Name Identifier",
+          "english_triplet": "<ORCID iD, part of, International Standard Name Identifier>"
+        }
+      },
+      {
+        "rank": 4,
+        "id": "triplet2_2293579",
+        "similarity": 0.46001845598220825,
+        "metadata": {
+          "head_id": "Q1122544",
+          "head_entity": "DrugBank",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q7094076",
+          "tail_entity": "online database",
+          "english_triplet": "<DrugBank, instance of, online database>"
+        }
+      },
+      {
+        "rank": 5,
+        "id": "triplet2_8925178",
+        "similarity": 0.45602545142173767,
+        "metadata": {
+          "head_id": "Q17144262",
+          "head_entity": "National Vital Statistics System",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q8513",
+          "tail_entity": "database",
+          "english_triplet": "<National Vital Statistics System, instance of, database>"
+        }
+      },
+      {
+        "rank": 6,
+        "id": "triplet2_5606133",
+        "similarity": 0.45030269026756287,
+        "metadata": {
+          "head_id": "Q23950508",
+          "head_entity": "British Nursing Index",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q8513",
+          "tail_entity": "database",
+          "english_triplet": "<British Nursing Index, instance of, database>"
+        }
+      },
+      {
+        "rank": 7,
+        "id": "triplet2_4290177",
+        "similarity": 0.44784775376319885,
+        "metadata": {
+          "head_id": "Q366795",
+          "head_entity": "CPR number",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q1140371",
+          "tail_entity": "national identification number",
+          "english_triplet": "<CPR number, instance of, national identification number>"
+        }
+      },
+      {
+        "rank": 8,
+        "id": "triplet3_6377",
+        "similarity": 0.39923855662345886,
+        "metadata": {
+          "head_id": "snomed_parent_child_triples_subject_6377",
+          "head_entity": "snomed_parent_child_triples_subject_6377",
+          "relation_id": "snomed_parent_child_triples_predicate_6377",
+          "relation": "snomed_parent_child_triples_predicate_6377",
+          "tail_id": "snomed_parent_child_triples_object_6377",
+          "tail_entity": "snomed_parent_child_triples_object_6377",
+          "english_triplet": "<snomed_parent_child_triples_subject_6377, snomed_parent_child_triples_predicate_6377, snomed_parent_child_triples_object_6377>"
+        }
+      },
+      {
+        "rank": 9,
+        "id": "triplet3_6206",
+        "similarity": 0.3952714204788208,
+        "metadata": {
+          "head_id": "snomed_parent_child_triples_subject_6206",
+          "head_entity": "snomed_parent_child_triples_subject_6206",
+          "relation_id": "snomed_parent_child_triples_predicate_6206",
+          "relation": "snomed_parent_child_triples_predicate_6206",
+          "tail_id": "snomed_parent_child_triples_object_6206",
+          "tail_entity": "snomed_parent_child_triples_object_6206",
+          "english_triplet": "<snomed_parent_child_triples_subject_6206, snomed_parent_child_triples_predicate_6206, snomed_parent_child_triples_object_6206>"
+        }
+      },
+      {
+        "rank": 10,
+        "id": "triplet3_13422",
+        "similarity": 0.3939889669418335,
+        "metadata": {
+          "head_id": "snomed_parent_child_triples_subject_13422",
+          "head_entity": "snomed_parent_child_triples_subject_13422",
+          "relation_id": "snomed_parent_child_triples_predicate_13422",
+          "relation": "snomed_parent_child_triples_predicate_13422",
+          "tail_id": "snomed_parent_child_triples_object_13422",
+          "tail_entity": "snomed_parent_child_triples_object_13422",
+          "english_triplet": "<snomed_parent_child_triples_subject_13422, snomed_parent_child_triples_predicate_13422, snomed_parent_child_triples_object_13422>"
+        }
+      }
+    ]
+  },
+  {
+    "question_index": 1,
+    "results": [
+      {
+        "rank": 1,
+        "id": "triplet2_4137101",
+        "similarity": 0.5271838307380676,
+        "metadata": {
+          "head_id": "Q5908569",
+          "head_entity": "Hospital Records Database",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q8513",
+          "tail_entity": "database",
+          "english_triplet": "<Hospital Records Database, instance of, database>"
+        }
+      },
+      {
+        "rank": 2,
+        "id": "triplet2_3701727",
+        "similarity": 0.4663471579551697,
+        "metadata": {
+          "head_id": "Q19867966",
+          "head_entity": "Health Data Consortium",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q43229",
+          "tail_entity": "organization",
+          "english_triplet": "<Health Data Consortium, instance of, organization>"
+        }
+      },
+      {
+        "rank": 3,
+        "id": "triplet2_286788",
+        "similarity": 0.4633893072605133,
+        "metadata": {
+          "head_id": "Q5048300",
+          "head_entity": "Case Estates",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q167346",
+          "tail_entity": "botanical garden",
+          "english_triplet": "<Case Estates, instance of, botanical garden>"
+        }
+      },
+      {
+        "rank": 4,
+        "id": "triplet2_2293579",
+        "similarity": 0.4609615206718445,
+        "metadata": {
+          "head_id": "Q1122544",
+          "head_entity": "DrugBank",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q7094076",
+          "tail_entity": "online database",
+          "english_triplet": "<DrugBank, instance of, online database>"
+        }
+      },
+      {
+        "rank": 5,
+        "id": "triplet2_2704731",
+        "similarity": 0.45756375789642334,
+        "metadata": {
+          "head_id": "Q115612",
+          "head_entity": "C/1702 H1",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q3559",
+          "tail_entity": "comet",
+          "english_triplet": "<C/1702 H1, instance of, comet>"
+        }
+      },
+      {
+        "rank": 6,
+        "id": "triplet2_5385707",
+        "similarity": 0.45293954014778137,
+        "metadata": {
+          "head_id": "Q5750304",
+          "head_entity": "HiPACT",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q43229",
+          "tail_entity": "organization",
+          "english_triplet": "<HiPACT, instance of, organization>"
+        }
+      },
+      {
+        "rank": 7,
+        "id": "triplet2_5606133",
+        "similarity": 0.45183852314949036,
+        "metadata": {
+          "head_id": "Q23950508",
+          "head_entity": "British Nursing Index",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q8513",
+          "tail_entity": "database",
+          "english_triplet": "<British Nursing Index, instance of, database>"
+        }
+      },
+      {
+        "rank": 8,
+        "id": "triplet3_3014",
+        "similarity": 0.43581876158714294,
+        "metadata": {
+          "head_id": "snomed_parent_child_triples_subject_3014",
+          "head_entity": "snomed_parent_child_triples_subject_3014",
+          "relation_id": "snomed_parent_child_triples_predicate_3014",
+          "relation": "snomed_parent_child_triples_predicate_3014",
+          "tail_id": "snomed_parent_child_triples_object_3014",
+          "tail_entity": "snomed_parent_child_triples_object_3014",
+          "english_triplet": "<snomed_parent_child_triples_subject_3014, snomed_parent_child_triples_predicate_3014, snomed_parent_child_triples_object_3014>"
+        }
+      },
+      {
+        "rank": 9,
+        "id": "triplet3_4380",
+        "similarity": 0.41841208934783936,
+        "metadata": {
+          "head_id": "snomed_parent_child_triples_subject_4380",
+          "head_entity": "snomed_parent_child_triples_subject_4380",
+          "relation_id": "snomed_parent_child_triples_predicate_4380",
+          "relation": "snomed_parent_child_triples_predicate_4380",
+          "tail_id": "snomed_parent_child_triples_object_4380",
+          "tail_entity": "snomed_parent_child_triples_object_4380",
+          "english_triplet": "<snomed_parent_child_triples_subject_4380, snomed_parent_child_triples_predicate_4380, snomed_parent_child_triples_object_4380>"
+        }
+      },
+      {
+        "rank": 10,
+        "id": "triplet3_3015",
+        "similarity": 0.41653895378112793,
+        "metadata": {
+          "head_id": "snomed_parent_child_triples_subject_3015",
+          "head_entity": "snomed_parent_child_triples_subject_3015",
+          "relation_id": "snomed_parent_child_triples_predicate_3015",
+          "relation": "snomed_parent_child_triples_predicate_3015",
+          "tail_id": "snomed_parent_child_triples_object_3015",
+          "tail_entity": "snomed_parent_child_triples_object_3015",
+          "english_triplet": "<snomed_parent_child_triples_subject_3015, snomed_parent_child_triples_predicate_3015, snomed_parent_child_triples_object_3015>"
+        }
+      }
+    ]
+  },
+  {
+    "question_index": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "triplet2_6700921",
+        "similarity": 0.3812870383262634,
+        "metadata": {
+          "head_id": "Q6554326",
+          "head_entity": "Link relation",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q5636097",
+          "tail_entity": "HTML attribute",
+          "english_triplet": "<Link relation, instance of, HTML attribute>"
+        }
+      },
+      {
+        "rank": 2,
+        "id": "triplet2_6625950",
+        "similarity": 0.37042826414108276,
+        "metadata": {
+          "head_id": "Q5380560",
+          "head_entity": "entity\u2013attribute\u2013value model",
+          "relation_id": "P144",
+          "relation": "based on",
+          "tail_id": "Q4818718",
+          "tail_entity": "attribute\u2013value pair",
+          "english_triplet": "<entity\u2013attribute\u2013value model, based on, attribute\u2013value pair>"
+        }
+      },
+      {
+        "rank": 3,
+        "id": "triplet2_6707831",
+        "similarity": 0.36798369884490967,
+        "metadata": {
+          "head_id": "Q3600296",
+          "head_entity": "A-One",
+          "relation_id": "P1889",
+          "relation": "different from",
+          "tail_id": "Q277868",
+          "tail_entity": "A-One",
+          "english_triplet": "<A-One, different from, A-One>"
+        }
+      },
+      {
+        "rank": 4,
+        "id": "triplet2_957363",
+        "similarity": 0.35723796486854553,
+        "metadata": {
+          "head_id": "Q5323607",
+          "head_entity": "EMPA",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q11173",
+          "tail_entity": "chemical compound",
+          "english_triplet": "<EMPA, instance of, chemical compound>"
+        }
+      },
+      {
+        "rank": 5,
+        "id": "triplet2_10879717",
+        "similarity": 0.3569132685661316,
+        "metadata": {
+          "head_id": "Q5384177",
+          "head_entity": "Equality Florida",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q163740",
+          "tail_entity": "nonprofit organization",
+          "english_triplet": "<Equality Florida, instance of, nonprofit organization>"
+        }
+      },
+      {
+        "rank": 6,
+        "id": "triplet2_3630394",
+        "similarity": 0.3567335605621338,
+        "metadata": {
+          "head_id": "Q1049726",
+          "head_entity": "Matchbox",
+          "relation_id": "P1889",
+          "relation": "different from",
+          "tail_id": "Q2704689",
+          "tail_entity": "Matchbox",
+          "english_triplet": "<Matchbox, different from, Matchbox>"
+        }
+      },
+      {
+        "rank": 7,
+        "id": "triplet2_9667785",
+        "similarity": 0.35565292835235596,
+        "metadata": {
+          "head_id": "Q4818707",
+          "head_entity": "attribute-oriented programming",
+          "relation_id": "P31",
+          "relation": "instance of",
+          "tail_id": "Q188267",
+          "tail_entity": "programming paradigm",
+          "english_triplet": "<attribute-oriented programming, instance of, programming paradigm>"
+        }
+      },
+      {
+        "rank": 8,
+        "id": "triplet3_15521",
+        "similarity": 0.33070605993270874,
+        "metadata": {
+          "head_id": "umls_type_groups_triples_subject_185",
+          "head_entity": "umls_type_groups_triples_subject_185",
+          "relation_id": "umls_type_groups_triples_predicate_185",
+          "relation": "umls_type_groups_triples_predicate_185",
+          "tail_id": "umls_type_groups_triples_object_185",
+          "tail_entity": "umls_type_groups_triples_object_185",
+          "english_triplet": "<umls_type_groups_triples_subject_185, umls_type_groups_triples_predicate_185, umls_type_groups_triples_object_185>"
+        }
+      },
+      {
+        "rank": 9,
+        "id": "triplet3_15590",
+        "similarity": 0.3121353089809418,
+        "metadata": {
+          "head_id": "umls_type_groups_triples_subject_254",
+          "head_entity": "umls_type_groups_triples_subject_254",
+          "relation_id": "umls_type_groups_triples_predicate_254",
+          "relation": "umls_type_groups_triples_predicate_254",
+          "tail_id": "umls_type_groups_triples_object_254",
+          "tail_entity": "umls_type_groups_triples_object_254",
+          "english_triplet": "<umls_type_groups_triples_subject_254, umls_type_groups_triples_predicate_254, umls_type_groups_triples_object_254>"
+        }
+      },
+      {
+        "rank": 10,
+        "id": "triplet3_15594",
+        "similarity": 0.2708137035369873,
+        "metadata": {
+          "head_id": "umls_type_groups_triples_subject_258",
+          "head_entity": "umls_type_groups_triples_subject_258",
+          "relation_id": "umls_type_groups_triples_predicate_258",
+          "relation": "umls_type_groups_triples_predicate_258",
+          "tail_id": "umls_type_groups_triples_object_258",
+          "tail_entity": "umls_type_groups_triples_object_258",
+          "english_triplet": "<umls_type_groups_triples_subject_258, umls_type_groups_triples_predicate_258, umls_type_groups_triples_object_258>"
+        }
+      }
+    ]
+  }
+]
