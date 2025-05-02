@@ -12,14 +12,14 @@ class LLM_for_Schema_Matching:
                 Example 1:
                 Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death; a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
                 Attribute 2 beneficiarysummary-desynpuf_id and its description 2 beneficiarysummary pertain to a synthetic medicare beneficiary; beneficiary code. 
-                Do attribute 1 and attribute 2 are semantically matched with each other?
+                Are attribute 1 and attribute 2 semantically matched with each other?
                 Here is the correct answer and the explanations for the above given example question: 1 
                 Explanation: they are semantically matched with each other because both of them are unique identifiers for each person. Even if the death-person_id refers to the unique identifier of the person in the death table and beneficiarysummary-desynpuf_id refers to the unique identifier of the person beneficiary from beneficiarysummary table, they are semantically matched with each other. \n\n
                         
                 Example 2:
                 Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
                 Attribute 2 beneficiarysummary-bene_birth_dt and its description 2 beneficiarysummary pertain to a synthetic medicare beneficiary; date of birth. 
-                Do attribute 1 and attribute 2 are semantically matched with each other?
+                Are attribute 1 and attribute 2 semantically matched with each other?
                 Here is the correct answer and the explanations for the above given example question: 0
                 Explanation: they are not semantically matched with each other, because death-person_id is a unique identifier for each person in death table and bene_birth_dt is the date of birth of person in beneficiarysummary table. 
                         

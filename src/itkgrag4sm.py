@@ -1,0 +1,108 @@
+import openai
+from typing import Tuple, Optional, Union
+from transformers import pipeline
+
+class KGRAG_for_Schema_Matching:
+    def generate_system_prompt(self) -> str:
+        return """
+                You are an expert in schema matching and data integration. 
+                (a) Your task is to analyze the attribute 1 with its textual description 1 and attribute 2 with its textual description 2 from source and target schema in the given question, and specify if the attribute 1 from source schema is semantically matched with attribute 2 from the target schema. In some questions, there is the knowledge graph context that might be helpful for you to answer. In this case, you will need to consider the provided context to make the correct decision. 
+                (b) Please give the relevance score between the given question and the provided knowledge graph context between 0 and 10 if the knowledge graph context is available. A score of 10 means the provided knowledge graph context is very relevant to the given question, and a score of 0 means the provided knowledge graph context is irrelevant to the given question. 
+                (c) Please make the decision only based on your knowledge if the knowledge graph context relevance score is less than 7 or the provided knowledge graph context is unavailable to answer the given question.
+               \n\n
+
+               Here are some examples of the schema matching questions with correct answers and explanations that you need to learn before you start to analyze the potential mappings:
+                Example 1:
+                Attribute 1 death-person_id and its description 1 the death domain contains the clinical event for how and when a person dies. a person can have up to one record if the source system contains evidence about the death.;a foreign key identifier to the deceased person. the demographic details of that person are stored in the person table. 
+                Attribute 2 beneficiarysummary-bene_birth_dt and its description 2 beneficiarysummary pertain to a synthetic medicare beneficiary; date of birth. 
+                Are attribute 1 and attribute 2 semantically matched with each other?
+                Here is the knowledge graph context that might be helpful for you to answer the above schema matching question: 
+                death (Q4), has part(s) of the class (P2670), date of death (Q18748141) -> date of death (Q18748141), opposite of (P461), date of birth (Q2389905) | human (Q5), has characteristic (P1552), age of a person (Q185836) -> age of a person (Q185836), uses (P2283), date of birth (Q2389905)
+                Knowledge graph context relevant score: 8 
+                Reason for relevant score: The above knowledge graph context indicates that date of death is opposite of date of birth, which is relevant to the given question.
+                Here is the correct answer and the explanations for the above-given example question: 0
+                Explanation: they are not semantically matched with each other, because death-person_id is a unique identifier for each person in death table and bene_birth_dt is the date of birth of person in beneficiarysummary table. From the above context, we can find that date of death is opposite of date of birth, they are not semantically matched with each other.\n\n
+
+                Example 2:
+                Attribute 1 drug_exposure-stop_reason and its description 1 the 'drug' domain captures records about the utilization of a drug when ingested or otherwise introduced into the body. a drug is a biochemical substance formulated in such a way that when administered to a person it will exert a certain physiological effect. drugs include prescription and over-the-counter medicines, vaccines, and large-molecule biologic therapies. radiological devices ingested or applied locally do not count as drugs.;the reason the drug was stopped. reasons include regimen completed, changed, removed, etc. 
+                Attribute 2 medications-reasondescription and its description 2 patient medication data; description of the reason code. 
+                Are attribute 1 and attribute 2 semantically matched with each other?
+                Here is the knowledge graph context that might be helpful for you to answer the above schema matching question: 
+                Drug Exposure (C41362):Contact with drug, isa, Chemical Exposure (C36290) | reason for stopping medication (120234), isa, Medication discontinued(274512008)-->has_associated_procedure, Drug therapy(416608005), has_direct_substance, Drug or medicament(410942007)
+                Knowledge graph context relevant score: 7 
+                Reason for relevant score: The above knowledge graph context shows the connections between stopping medication and drug exposure, which might be relevant to the given question.
+                Here is the correct answer and the explanations for the above-given example question: 0
+                Explanation: they are not semantically matched with each other, because drug_exposure-stop_reason is the reason for stopping the drug exposure and medications-reasondescription is the description of the reason code. From the above context, even if we can find that there is a connection between the drug exposure stop reason and reason for stopping medication but this connection is a sub-concept relation. \n\n
+
+                Example 3:
+                Attribute 1 device_exposure-person_id and its description 1 the device exposure domain captures information about a person's exposure to a foreign physical object or instrument that which is used for diagnostic or therapeutic purposes through a mechanism beyond chemical action.;a foreign key identifier to the person who is subjected to the device. the demographic details of that person are stored in the person table. 
+                Attribute 2 patients-id and its description 2 patient demographic data.;primary key. unique identifier of the patient. 
+                Are attribute 1 and attribute 2 semantically matched with each other?
+                Here is the knowledge graph context that might be helpful for you to answer the above schema matching question: Patient identification data:-:Pt:^Patient:Set:DEEDS (55174-7), has member, Emergency contact information panel:-:Pt:^Emergency contact:- (56796-6)| Patient identification data:-:Pt:^Patient:Set:DEEDS (55174-7), has member, Episode unique identifier:ID:Pt:^Patient:Nom (56797-4)
+                Knowledge graph context relevant score: 4 
+                Reason for relevant score: he above knowledge graph context mentions the potential connections between Patient identification data and Episode unique identifier, while not directly referencing the connection to device_exposure, thus it is poorly relevant to the given question. 
+                Here is the correct answer and the explanations for the above-given example question: 0 
+                Explanation: They are not semantically matched with each other, because device_exposure-person_id is a foreign key pointing to a person involved in a device_exposure event that is not limited to the patient_id refers to general demographic data for a patient in the patient table.  The relevance score of the knowledge graph context is less than 7, which should not be considered. \n\n
+                
+
+                Remember the following tips when you are analyzing the potential mappings.
+                Tips:
+                (1) Some letters are extracted from the full names and merged into an abbreviation word.
+                (2) Schema information sometimes is also added as the prefix of abbreviation.
+                (3) Please consider the abbreviation case. 
+                (4) If conflicts exist between knowledge graph context and your own internal knowledge, please make the decision based on knowledge graph context.   
+                """
+
+    def generate_user_prompt(self, question: str, paths: Optional[str]) -> str:
+        prompt = f"""(d) Based on the provided example and the following knowledge graph context, please answer the following schema matching question:
+        
+        {question}
+
+        Knowledge Graph Context:
+        {paths if paths and paths != ['null'] else "No available knowledge graph context, please make the decision yourself. "}
+
+        Please respond with the label: 1 if attribute 1 and attribute 2 are semantically matched with each other, otherwise respond lable: 0.
+        Do not mention that there is not enough information to decide.
+        """
+        return prompt
+    
+    def get_llm_response(self, system_prompt: str, user_prompt: str, model: Union[str, pipeline]) -> str:
+        if isinstance(model, str) and model.startswith('gpt'):
+            client = openai.Client()
+            messages = [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ]
+            response = client.chat.completions.create(
+                model=model,
+                messages=messages
+            )
+            return response.choices[0].message.content
+        else:
+            messages = [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ]
+            terminators = [
+                model.tokenizer.eos_token_id,
+                model.tokenizer.convert_tokens_to_ids("<|eot_id|>")
+            ]
+            
+            responses = model(
+                messages,
+                eos_token_id=terminators,
+                max_new_tokens=4096,
+                do_sample=True,
+                temperature=0.5,
+                top_k=1,
+                top_p=0.9,
+                pad_token_id=model.tokenizer.eos_token_id
+            )
+            answer = responses[0]['generated_text'][-1]["content"].strip()
+            return answer
+    
+    def kgrag_query_for_schema_matching(self, question: str, paths: Optional[str], model) -> Tuple[str, str, str]:
+        system_prompt = self.generate_system_prompt()
+        user_prompt = self.generate_user_prompt(question, paths)
+        response = self.get_llm_response(system_prompt, user_prompt, model)
+        return system_prompt, user_prompt, response

@@ -1,10 +1,10 @@
 # KG-RAG4SM: Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching
 
-This repository provides the source code & data of our paper "[Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching](https://arxiv.org/abs/2501.08686)".
+This repository provides the source code & data of our paper "Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching".
 
 ## Introduction
 KG-RAG4SM is a knowledge graph-based retrieval-augmented generation (graph RAG) model for schema matching and data integration. 
-- It introduces novel vector-based, graph traversal-based, and query-based graph retrievals, as well as a hybrid approach and ranking schemes that identify the most relevant subgraphs from external large knowledge graphs (KGs).
+- It introduces novel vector-based, graph traversal-based, hybrid approach, as well as a ranking schemes that identify the most relevant subgraphs from external large knowledge graphs (KGs).
 - It leverages the retrieved subgraphs to augment the LLMs and prompts for generating the final results for the complex schema-matching task. 
 - It supports the mainstream LLMs, such as GPT, Mistral, Llama, Gemma, Jellyfish, etc.
 
@@ -57,14 +57,31 @@ You can run the code with the preprocessed data (stored in `datasets/reproduce/`
 
 * Specifically, run kgrag4sm with the default arguments for different experiments:
 
+Run with the retreived subgraph from Wikidata KG:
+
 ```
 python kgrag4sm_main.py
 ```
+
+Run with the retreived subgraph from UMLS KG:
+
+```
+python kgrag4sm_UMLS_KG.py
+```
+
+Run with the retreived subgraph from UMLS KG with instrcution-tuning (IT):
+
+```
+python kgrag4sm_UMLS_KG_it.py
+```
+
+
 * Run the llm for schema matching without retrieved subgraphs:
 
 ```
 python llm4sm_main.py
 ```
+
 
 ## Run with the raw data **(Optional)** 
 If you would like to preprocess the raw data (stored in `datasets/original/`) and retrieve the subgraphs from the wikidata, you can run the subgraph retrieval according to the following instructions:
@@ -206,18 +223,6 @@ python create_embeddings.py --input_file ../datasets/test_emed_q.xlsx --output_d
 ```
 cd /app/retrieval
 python vector_based_KG_triple_retrieval_ranking.py triplet_ranking --dataset emed
-```
-
-## Citation
-If you find our work helpful, please cite by using the following BibTeX entry:
-
-```bib
-@article{ma2025kgrag4sm,
-      title={Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching}, 
-      author={Chuangtao Ma and Sriom Chakrabarti and Arijit Khan and Bálint Molnár},
-      journal={arXiv preprint arXiv:2501.08686},
-      year={2025}
-    }
 ```
 
 ## Acknowledgment
