@@ -11,7 +11,7 @@ from src.itkgrag4sm import KGRAG_for_Schema_Matching
 
 def get_data_file(dataset: str) -> str:
     dataset_mapping = {
-        "synthea": "datasets/reproduce/test_synthea_q_UMLS_KG_with_paths.xlsx"
+        "synthea": "datasets/reproduce/test_synthea_q_umls_paths.xlsx"
     }
     return dataset_mapping.get(dataset)
 
