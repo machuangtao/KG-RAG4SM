@@ -66,13 +66,13 @@ python kgrag4sm_main.py
 Run with the retreived subgraph from UMLS KG:
 
 ```
-python kgrag4sm_UMLS_KG.py
+python kgrag4sm_umls_kg.py
 ```
 
 Run with the retreived subgraph from UMLS KG with instrcution-tuning (IT):
 
 ```
-python kgrag4sm_UMLS_KG_it.py
+python kgrag4sm_umls_kg_it.py
 ```
 
 
