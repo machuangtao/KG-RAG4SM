@@ -51,7 +51,7 @@ huggingface-cli login
 ### 3. Run with the preprocessed data to reproduce
 You can run the code with the preprocessed data (stored in `datasets/reproduce/`) with the generated schema matching questions and retrieved subgraphs from wikdiata. Make sure you have setuped the required arguments:
 
-- `--dataset`: Choose from cms, mimic, synthea, emed
+- `--dataset`: Choose from cms, mimic, synthea, emed, imsa, bank
 - `--backbone_llm_model`: Choose from gpt-4o-mini, jellyfish-8b, jellyfish-7b, mistral-7b
 - `--retrieved_paths`: the various paths retrieved by different subgraph retrieval methods
 
@@ -69,7 +69,7 @@ Run with the retreived subgraph from UMLS KG:
 python kgrag4sm_umls_kg.py
 ```
 
-Run with the retreived subgraph from UMLS KG with instrcution-tuning (IT):
+Run with the retreived subgraph from UMLS KG with instrcution tuning (IT)-based knowledge exclusion:
 
 ```
 python kgrag4sm_umls_kg_it.py
@@ -226,8 +226,11 @@ python vector_based_KG_triple_retrieval_ranking.py triplet_ranking --dataset eme
 ```
 
 ## Acknowledgment
-The cms, synthea, and mimic datasets originated from the following works, we thank them for sharing the dataset.
+The cms, synthea, and mimic datasets, as well as bank and imsa datasts originated from the following work, respectively. We thank them for sharing the dataset.
 ```
 SMAT: An Attention-based Deep Learning Solution to the Automation of Schema Matching
 https://github.com/JZCS2018/SMAT
+
+LLMATCH: A Unified Schema Matching Framework with Large Language Models
+https://github.com/knowledge-fusion/LLMatch
 ```
