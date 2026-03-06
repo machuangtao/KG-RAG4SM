@@ -2,7 +2,7 @@ import pandas as pd
 from tqdm import tqdm
 
 def main():
-    fnames = ['datasets/original/test_cms_q.xlsx', 'datasets/original/test_emed_q.xlsx', 'datasets/original/test_mimic_q.xlsx','datasets/original/test_synthea_q.xlsx']
+    fnames = ['datasets/original/test_cms_q.xlsx', 'datasets/original/test_emed_q.xlsx', 'datasets/original/test_mimic_q.xlsx','datasets/original/test_synthea_q.xlsx', 'datasets/original/test_bank_q.xlsx', 'datasets/original/test_imsa_q.xlsx']
 
     for fname in fnames:
         reader = pd.read_excel(fname)

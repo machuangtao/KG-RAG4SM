@@ -8,13 +8,17 @@ from tqdm import tqdm
 from src.utils import get_devices, setup_llm_logging, extract_label, calculate_metrics
 from src.llm import initialize_llm_model
 from src.llm4sm import LLM_for_Schema_Matching
+from sklearn.metrics import confusion_matrix
 
 def get_data_file(dataset: str) -> str:
     dataset_mapping = {
         "cms": "datasets/reproduce/test_cms_q_with_paths.xlsx",
         "mimic": "datasets/reproduce/test_mimic_q_with_paths.xlsx",
         "synthea": "datasets/reproduce/test_synthea_q_with_paths.xlsx",
-        "emed": "datasets/reproduce/test_emed_q_with_paths.xlsx"
+        "emed": "datasets/reproduce/test_emed_q_with_paths.xlsx",
+        "bank": "datasets/original/test_bank_q.xlsx",
+        "movie": "datasets/original/test_imsa_q.xlsx"
+
     }
     return dataset_mapping.get(dataset)
 
@@ -85,6 +89,15 @@ def main():
     logging.info(f"Recall: {recall:.4f}")
     logging.info(f"F1 Score: {f1:.4f}")
     logging.info(f"Accuracy: {accuracy:.4f}")
+    
+    # Calculate confusion matrix components
+    tn, fp, fn, tp = confusion_matrix(y_true, y_pred).ravel()
+    
+    logging.info("\nConfusion Matrix:")
+    logging.info(f"True Positives (TP): {tp}")
+    logging.info(f"True Negatives (TN): {tn}")
+    logging.info(f"False Positives (FP): {fp}")
+    logging.info(f"False Negatives (FN): {fn}")
     
     end_time = datetime.now()
     duration = end_time - start_time

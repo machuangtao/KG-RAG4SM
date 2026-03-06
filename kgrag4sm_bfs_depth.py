@@ -4,35 +4,44 @@ import logging
 import argparse
 from datetime import datetime
 from tqdm import tqdm
+from sklearn.metrics import confusion_matrix
 
 from src.utils import get_devices, setup_kgrag_logging, extract_label, calculate_metrics
 from src.llm import initialize_llm_model
-from src.itkgrag4sm import KGRAG_for_Schema_Matching
-from sklearn.metrics import confusion_matrix
+from src.kgrag4sm import KGRAG_for_Schema_Matching
 
 def get_data_file(dataset: str) -> str:
     dataset_mapping = {
-        "synthea": "datasets/reproduce/test_synthea_q_umls_paths.xlsx"
+        "cms": "datasets/reproduce/test_cms_q_bfs_depth.xlsx"
     }
     return dataset_mapping.get(dataset)
 
 def get_paths_column(retrieved_paths: str) -> int:
     paths_mapping = {
-        "umls_domain_kg_paths_full": 10,
-        "umls_domain_kg_paths_top1": 11,
-        "umls_domain_kg_paths_top2": 12
+        "bfs_1_hop_all": 10,
+        "bfs_1_hop_top_2": 11,
+        "bfs_1_hop_top_1": 12,
+        "bfs_2_hop_all": 13,
+        "bfs_2_hop_top_2": 14,
+        "bfs_2_hop_top_1": 15,
+        "bfs_3_hop_all": 16,
+        "bfs_3_hop_top_2": 17,
+        "bfs_3_hop_top_1": 18,
+        "bfs_4_hop_all": 19,
+        "bfs_4_hop_top_2": 20,
+        "bfs_4_hop_top_1": 21,
     }
     return paths_mapping.get(retrieved_paths)
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', type=str, default='synthea', help='dataset: mimic, mimic, synthea, emed')
+    parser.add_argument('--dataset', type=str, default='cms', help='dataset: mimic, mimic, synthea, emed')
     parser.add_argument('--backbone_llm_model', type=str, default='jellyfish-8b',
                       help='Model name (e.g., gpt-4o-mini, jellyfish-8b, jellyfish-7b, mistral-7b)')
-    parser.add_argument('--log_dir', type=str, default='logs/umls/itkgrag', help='Directory for storing logs')
+    parser.add_argument('--log_dir', type=str, default='logs/', help='Directory for storing logs')
     parser.add_argument('--device', type=str, default='cuda', help='cuda or cpu')
-    parser.add_argument('--retrieved_paths', type=str, default="umls_domain_kg_paths_top1",
-                      help='umls_domain_kg_paths_full, umls_domain_kg_paths_top1, umls_domain_kg_paths_top2')
+    parser.add_argument('--retrieved_paths', type=str, default="llm_entity_retrieval_bfs_paths",
+                      help='retrieved paths: bfs_1_hop_all, bfs_1_hop_top_2, bfs_1_hop_top_1, bfs_2_hop_all, bfs_2_hop_top_2, bfs_2_hop_top_1, bfs_3_hop_all, bfs_3_hop_top_2, bfs_3_hop_top_1, bfs_4_hop_all, bfs_4_hop_top_2, bfs_4_hop_top_1')
     args = parser.parse_args()
 
     start_time = datetime.now()
@@ -101,6 +110,7 @@ def main():
     logging.info(f"Recall: {recall:.4f}")
     logging.info(f"F1 Score: {f1:.4f}")
     logging.info(f"Accuracy: {accuracy:.4f}")
+
     # Calculate confusion matrix components
     tn, fp, fn, tp = confusion_matrix(y_true, y_pred).ravel()
     

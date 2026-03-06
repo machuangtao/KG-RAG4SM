@@ -12,15 +12,16 @@ from sklearn.metrics import confusion_matrix
 
 def get_data_file(dataset: str) -> str:
     dataset_mapping = {
-        "synthea": "datasets/reproduce/test_synthea_q_umls_paths.xlsx"
+        "synthea": "datasets/reproduce/test_synthea_q_umls_wikidata_160.xlsx"
     }
     return dataset_mapping.get(dataset)
 
 def get_paths_column(retrieved_paths: str) -> int:
     paths_mapping = {
-        "umls_domain_kg_paths_full": 10,
-        "umls_domain_kg_paths_top1": 11,
-        "umls_domain_kg_paths_top2": 12
+        "umls_domain_kg_paths_top1": 9,
+        "umls_domain_kg_paths_top2": 10,
+        "wikidata_kg_paths_top1": 11,
+        "wikidata_kg_paths_top2": 12
     }
     return paths_mapping.get(retrieved_paths)
 
