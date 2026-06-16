@@ -1,18 +1,3 @@
-"""ArchRAG4SM main entry point for schema matching.
-
-Usage (after building the ArchRAG index on Wikidata5M):
-
-    python -m archrag4sm.archrag4sm_main \\
-        --dataset cms \\
-        --backbone_llm_model gpt-4o-mini \\
-        --index_dir archrag4sm/index
-
-Embeddings use RoBERTa-base (768-dim, local) by default — no API key needed.
-
-The script mirrors the structure of kgrag4sm_main.py but retrieves KG context
-dynamically from the ArchRAG index instead of pre-computed paths.
-"""
-
 import sys
 import json
 import logging
