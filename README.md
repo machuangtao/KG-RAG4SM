@@ -246,7 +246,7 @@ python prepare_wikidata5m.py
 python ArchRAG/src/index.py
 ```
 
-### Reproduce the restuls on schema matching
+### Reproduce the results on schema matching
 
 ```
 python -m archrag4sm.archrag4sm_main \\
