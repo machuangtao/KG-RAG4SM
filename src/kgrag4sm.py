@@ -1,5 +1,5 @@
 import openai
-from typing import Tuple, Optional, Union
+from typing import Tuple, Optional, Union, Dict
 from transformers import pipeline
 
 class KGRAG_for_Schema_Matching:
@@ -47,7 +47,7 @@ class KGRAG_for_Schema_Matching:
         """
         return prompt
     
-    def get_llm_response(self, system_prompt: str, user_prompt: str, model: Union[str, pipeline]) -> str:
+    def get_llm_response(self, system_prompt: str, user_prompt: str, model: Union[str, pipeline]) -> Tuple[str, Dict[str, int]]:
         if isinstance(model, str) and model.startswith('gpt'):
             client = openai.Client()
             messages = [
@@ -58,17 +58,27 @@ class KGRAG_for_Schema_Matching:
                 model=model,
                 messages=messages
             )
-            return response.choices[0].message.content
+            answer = response.choices[0].message.content
+            token_usage = {
+                "prompt_tokens": response.usage.prompt_tokens,
+                "completion_tokens": response.usage.completion_tokens,
+                "total_tokens": response.usage.total_tokens
+            }
+            return answer, token_usage
         else:
             messages = [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
             ]
+            # Count prompt tokens
+            prompt_text = system_prompt + user_prompt
+            prompt_tokens = len(model.tokenizer.encode(prompt_text))
+
             terminators = [
                 model.tokenizer.eos_token_id,
                 model.tokenizer.convert_tokens_to_ids("<|eot_id|>")
             ]
-            
+
             responses = model(
                 messages,
                 eos_token_id=terminators,
@@ -80,10 +90,19 @@ class KGRAG_for_Schema_Matching:
                 pad_token_id=model.tokenizer.eos_token_id
             )
             answer = responses[0]['generated_text'][-1]["content"].strip()
-            return answer
+
+            # Count completion tokens
+            completion_tokens = len(model.tokenizer.encode(answer))
+
+            token_usage = {
+                "prompt_tokens": prompt_tokens,
+                "completion_tokens": completion_tokens,
+                "total_tokens": prompt_tokens + completion_tokens
+            }
+            return answer, token_usage
     
-    def kgrag_query_for_schema_matching(self, question: str, paths: Optional[str], model) -> Tuple[str, str, str]:
+    def kgrag_query_for_schema_matching(self, question: str, paths: Optional[str], model) -> Tuple[str, str, str, Dict[str, int]]:
         system_prompt = self.generate_system_prompt()
         user_prompt = self.generate_user_prompt(question, paths)
-        response = self.get_llm_response(system_prompt, user_prompt, model)
-        return system_prompt, user_prompt, response
+        response, token_usage = self.get_llm_response(system_prompt, user_prompt, model)
+        return system_prompt, user_prompt, response, token_usage

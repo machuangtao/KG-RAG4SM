@@ -77,28 +77,37 @@ def main():
     kgrag4sm = KGRAG_for_Schema_Matching()
     y_true = []
     y_pred = []
-    
+    total_prompt_tokens = 0
+    total_completion_tokens = 0
+    total_tokens = 0
+
     for i in tqdm(range(reader.shape[0]), desc="Processing questions"):
         try:
             question = reader.iloc[i, 9]
             paths = reader.iloc[i, paths_column]
             ground_truth = reader.iloc[i, 4]
-            
+
             if pd.isna(paths):
                 paths = None
-            
-            _, _, response = kgrag4sm.kgrag_query_for_schema_matching(question, paths, model)
+
+            _, _, response, token_usage = kgrag4sm.kgrag_query_for_schema_matching(question, paths, model)
             label = extract_label(response)
-            
+
+            # Accumulate token usage
+            total_prompt_tokens += token_usage["prompt_tokens"]
+            total_completion_tokens += token_usage["completion_tokens"]
+            total_tokens += token_usage["total_tokens"]
+
             if label != -1 and not pd.isna(ground_truth):
                 y_true.append(int(ground_truth))
                 y_pred.append(label)
-            
+
             logging.info(f"\nResults for row {i+1}:")
             logging.info(f"Response: {response}")
             logging.info(f"Extracted Label: {label}")
             logging.info(f"Ground Truth: {ground_truth}")
-            
+            logging.info(f"Token Usage - Prompt: {token_usage['prompt_tokens']}, Completion: {token_usage['completion_tokens']}, Total: {token_usage['total_tokens']}")
+
         except Exception as e:
             logging.error(f"Error processing row {i+1}: {e}")
             continue
@@ -127,6 +136,11 @@ def main():
     logging.info(f"Start Time: {start_time}")
     logging.info(f"End Time: {end_time}")
     logging.info(f"Total Duration: {duration}")
+
+    logging.info("\nToken Consumption Summary:")
+    logging.info(f"Total Prompt Tokens: {total_prompt_tokens}")
+    logging.info(f"Total Completion Tokens: {total_completion_tokens}")
+    logging.info(f"Total Tokens: {total_tokens}")
 
     print(f"Resutls are recorded in the following log file:{log_filename}")
 
