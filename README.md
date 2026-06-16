@@ -82,7 +82,6 @@ python kgrag4sm_umls_kg_it.py
 python llm4sm_main.py
 ```
 
-
 ## Run with the raw data **(Optional)** 
 If you would like to preprocess the raw data (stored in `datasets/original/`) and retrieve the subgraphs from the wikidata, you can run the subgraph retrieval according to the following instructions:
 
@@ -223,6 +222,37 @@ python create_embeddings.py --input_file ../datasets/test_emed_q.xlsx --output_d
 ```
 cd /app/retrieval
 python vector_based_KG_triple_retrieval_ranking.py triplet_ranking --dataset emed
+```
+
+## Reproduce the adapted ArchRGA baseline
+
+### Prepration
+
+* Clone the ArchRAG in the project category
+
+```
+git clone https://github.com/sam234990/ArchRAG.git
+```
+
+* Convert Wikidata KG to ArchRAG's parquet format
+
+```
+python prepare_wikidata5m.py
+```
+
+* Build the ArchRAG hierarchical community index on Wikidata KG
+
+```
+python ArchRAG/src/index.py
+```
+
+### Reproduce the restuls on schema matching
+
+```
+python -m archrag4sm.archrag4sm_main \\
+      --dataset cms \\
+      --backbone_llm_model gpt-4o-mini \\
+      --index_dir archrag4sm/index
 ```
 
 ## Acknowledgment
