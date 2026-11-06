@@ -7,6 +7,17 @@ data/wikidata5m_adjacency.pkl
 data/wikidata5m_adjacency_meta.json
 testRes/
 
+archrag4sm/*
+!archrag4sm/__init__.py
+!archrag4sm/archrag4sm_main.py
+!archrag4sm/archrag4sm_sm.py
+!archrag4sm/prepare_wikidata5m.py
+
+/kbs/
+/logs/
+/reproduce/
+/scripts/
+
 # Python
 __pycache__/
 *.pyc

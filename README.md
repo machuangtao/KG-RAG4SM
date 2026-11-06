@@ -1,6 +1,17 @@
 # KG-RAG4SM: Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching
 
-This repository provides the source code & data of our paper "Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching".
+This repository provides the source code & data of our accepted ACM TKDD paper "[Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching](https://arxiv.org/abs/2501.08686)".
+
+If you find our work useful,  please cite our paper by using the following BibTeX entry.
+
+```
+@article{kgrag4sm2026,
+  author   = {Ma, Chuangtao and Chakrabarti, Sriom and Khan, Arijit and Moln\'{a}}r, B{\'{a}}lint },
+  title    = {Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching},
+  journal  = {{ACM} Trans. Knowl. Discov. Data},
+  year     = {2026}
+}
+```
 
 ## Introduction
 KG-RAG4SM is a knowledge graph-based retrieval-augmented generation (graph RAG) model for schema matching and data integration. 
