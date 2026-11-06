@@ -255,6 +255,26 @@ python -m archrag4sm.archrag4sm_main \\
       --index_dir archrag4sm/index
 ```
 
+## Local in-memory BFS on WikiData5M (`test` branch)
+
+This branch adds **`experiment/`** — local breadth-first search over a WikiData5M subgraph loaded in RAM (no live SPARQL during BFS). Use it to benchmark **latency**, **path count**, and **triple count** vs the remote Wikidata API.
+
+**Full instructions:** [experiment/README.md](experiment/README.md)
+
+```bash
+# Build graph cache (one-time)
+python -m experiment.wikidata5m_graph --rebuild-graph --workers 8
+
+# Run BFS for one dataset and depth
+python -m experiment.bfs_local --dataset cms --max_hops 4 --workers 2
+
+# Depth sweep 1–4 and write results table
+python -m experiment.run_depth_experiment --dataset bank --workers 2
+python -m experiment.write_full_results_txt
+```
+
+**Results:** `testRes/{dataset}_bfs_local_paths_h{depth}.json` (metadata includes paths, triples, timing) and `experiment/logs/local_bfs_experiment_results.txt` (consolidated table).
+
 ## Acknowledgment
 The cms, synthea, and mimic datasets, as well as bank and imsa datasts originated from the following work, respectively. We thank them for sharing the dataset.
 ```

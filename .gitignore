@@ -1,0 +1,18 @@
+# Experiment artifacts (generated at runtime)
+experiment/logs/*
+!experiment/logs/.gitkeep
+
+# Large graph cache and result JSON
+data/wikidata5m_adjacency.pkl
+data/wikidata5m_adjacency_meta.json
+testRes/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets
+openai_api.txt
+.env
